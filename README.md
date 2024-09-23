@@ -92,3 +92,5 @@ Objetivos de Aprendizagem:
 - Modelação financeira elementar: receitas, custos fixos e variáveis
 - Cálculo do juro produzido num período, com base em diferentes bases de calendário
 - Excel: utilização do Goal Seek para determinação de valores críticos
+
+# A Equipa
