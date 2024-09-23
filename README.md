@@ -73,7 +73,7 @@ Vídeos com especialistas partilhando as suas experiências profissionais reais 
 # Blogs
 Descubra as perceções profissionais de solictadores experientes enquanto navegam pela complexa relação entre o direito e as finanças. Os nossos artigos de blog exploram experiências do mundo real, oferecendo perspetivas e perceções de especialistas sobre como a análise e o cálculo financeiro impactam as decisões jurídicas, a redação de contratos, a resolução de disputas e a conformidade. Quer seja um profissional jurídico, um especialista financeiro ou alguém interessado na aplicação prática destes campos, este blog fornece uma riqueza de conhecimentos valiosos, dicas práticas e análises aprofundadas, retiradas da linha da frente da prática jurídica.
 
-# Estudo de Casos & Exercícios Práticos
+# Estudo de Casos, Notebooks & Exercícios Práticos
 
 **Estudo de Casos**
 
