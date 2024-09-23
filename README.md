@@ -5,12 +5,12 @@
 **Áreas em que Competências Financeiras Podem Ser Úteis para Solicitadores**
 
 - Direito Comercial
-  - Compreensão de demonstrações financeiras: No direito comercial, os solicitadores muitas vezes lidam com as finanças de empresas, transações comerciais e fusões. Uma compreensão sólida das demonstrações financeiras (balanços, demonstrações de resultados e fluxos de caixa) é crucial.
+  - Compreensão de demonstrações financeiras: No direito comercial, os solicitadores muitas vezes lidam com as finanças de empresas, transações comerciais e fusões & aquisições. Uma compreensão sólida das demonstrações financeiras (balanços, demonstrações de resultados e fluxos de caixa) é crucial.
   - Avaliação de ativos e empresas: Solicitadores envolvidos em fusões & aquisições precisam entender modelos financeiros para avaliar o valor de empresas ou ativos.
   - Cálculos de juros: O cálculo financeiro ajuda a compreender as taxas de juro, os planos de amortização de empréstimos e o valor temporal do dinheiro.
 
 - Direito Fiscal
-  - Cálculos fiscais: Solicitadores que trabalham em direito fiscal precisam calcular impostos, compreender as implicações fiscais de transações financeiras e podem necessitar de familiaridade com modelos matemáticos para garantir um planeamento e cumprimento fiscal precisos.
+  - Cálculos fiscais: Solicitadores que trabalham em direito fiscal precisam de calcular impostos, compreender as implicações fiscais de transações financeiras e podem necessitar de familiaridade com modelos matemáticos para garantir um planeamento e cumprimento fiscal precisos.
  - Mais-valias e menos-valias: Compreensão da temporização e do cálculo de mais-valias ou menos-valias ao longo do tempo, incluindo a tributação de mais-valias diferidas.
 
 - Direito Imobiliário
@@ -22,7 +22,7 @@ Reestruturação de dívidas: Solicitadores em reestruturação societária ou i
 - Avaliações de risco financeiro: Os solicitadores podem ser chamados a analisar riscos financeiros e ajudar na formulação de estratégias para mitigá-los.
 
 - Contencioso
-  - Cálculo de indemnizações: Em contencioso, especialmente comercial, os advogados podem precisar de calcular indemnizações, o que pode envolver cálculos de valor presente ou futuro, aplicação de taxas de desconto ou a compreensão do impacto económico das taxas de juro ao longo do tempo.
+  - Cálculo de indemnizações: Em contencioso, especialmente comercial, os solictadores podem precisar de calcular indemnizações, o que pode envolver cálculos de valor presente ou futuro, aplicação de taxas de desconto ou a compreensão do impacto económico das taxas de juro ao longo do tempo.
   - Acordos financeiros: Em casos que envolvem acordos financeiros, um solicitador pode precisar de calcular quanto deve ser pago, tendo em conta juros, inflação ou depreciação ao longo do tempo.
 
 **Competências Matemáticas e Financeiras Essenciais para Solictadores**
@@ -37,11 +37,6 @@ Finanças:
 - Cálculo de Taxas de Juro: Capacidade de calcular juros simples e compostos, o que é vital para hipotecas, empréstimos e outros contratos financeiros.
 - Gestão de Risco: Familiaridade com avaliações de risco financeiro, particularmente no contexto do direito societário, contencioso e insolvência.
 
-
-
-- Atenção ao Detalhe: Para garantir cálculos precisos em questões financeiras complexas.
-- Capacidade Analítica: Para avaliar documentos financeiros, valorizações e pedidos de indemnização.
-- Competências de Negociação: Particularmente em acordos financeiros, empréstimos e contratos em geral.
 **Competências que Apoiam o Conhecimento de Cálculo Financeiro**
 - Atenção ao Detalhe: Para garantir cálculos precisos em questões financeiras complexas.
 - Capacidade Analítica: Para avaliar documentos financeiros, valorizações e pedidos de indemnização.
