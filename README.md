@@ -2,79 +2,87 @@
 
 # Tópicos na Interseção entre Direito & Finanças
 
-
 **Áreas em que Competências Financeiras Podem Ser Úteis para Solicitadores**
 
-- Commercial Law
-  - Understanding financial statements: In commercial law, solicitors often deal with company finances, business transactions, and mergers. A strong grasp of financial statements (balance sheets, income statements, and cash flows) is crucial.
-  - Valuation of assets and businesses: Solicitors involved in mergers and acquisitions need to understand financial models to evaluate the value of companies or assets.
-  - Interest calculations: Financial calculus helps with understanding interest rates, loan amortization schedules, and the time value of money.
-- Tax Law
-  - Tax computations: Solicitors working in tax law need to compute taxes, understand tax implications of financial transactions, and may require some familiarity with mathematical models to ensure accurate tax planning and compliance.
-  - Capital gains and losses: Understanding the timing and calculation of capital gains or losses over time, including any taxation on deferred gains.
-- Property Law
-  - Mortgages and loan agreements: A basic understanding of financial calculus, particularly compound interest, is useful in drafting and negotiating loan agreements and mortgages.
-  - Valuation of real estate: Property law solicitors might need to assess the financial aspects of real estate transactions, including valuing property based on potential future returns.
-- Corporate and Insolvency Law
-  - Debt restructuring: Solicitors in corporate restructuring or insolvency may deal with complex financial arrangements and restructuring plans, which require an understanding of interest rates, debt recovery, financial modeling and valuation methods.
-  - Financial risk assessments: Solicitors may be called upon to analyze financial risks and assist with formulating strategies to mitigate them.
-- Litigation
-  - Damages calculation: In litigation, especially commercial litigation, solicitors may need to calculate damages, which could involve present value or future value calculations, applying discount rates, or understanding the economic impact of interest rates over time.
-  - Financial settlements: In cases involving financial settlements, a solicitor may need to calculate how much should be paid, factoring in interest, inflation, or depreciation over time.
+- Direito Comercial
+  - Compreensão de demonstrações financeiras: No direito comercial, os solicitadores muitas vezes lidam com as finanças de empresas, transações comerciais e fusões. Uma compreensão sólida das demonstrações financeiras (balanços, demonstrações de resultados e fluxos de caixa) é crucial.
+  - Avaliação de ativos e empresas: Solicitadores envolvidos em fusões & aquisições precisam entender modelos financeiros para avaliar o valor de empresas ou ativos.
+  - Cálculos de juros: O cálculo financeiro ajuda a compreender as taxas de juro, os planos de amortização de empréstimos e o valor temporal do dinheiro.
 
-**Core Mathematical and Financial Skills for Solicitors**
+- Direito Fiscal
+  - Cálculos fiscais: Solicitadores que trabalham em direito fiscal precisam calcular impostos, compreender as implicações fiscais de transações financeiras e podem necessitar de familiaridade com modelos matemáticos para garantir um planeamento e cumprimento fiscal precisos.
+ - Mais-valias e menos-valias: Compreensão da temporização e do cálculo de mais-valias ou menos-valias ao longo do tempo, incluindo a tributação de mais-valias diferidas.
 
-Mathematical:
-- Basic Arithmetic and Algebra: Understanding ratios, percentages, and basic algebraic functions.
-- Basic Statistics: In some areas, understanding probability and statistics may be useful, particularly in litigation.
-- For most solicitors, proficiency in <ins>Excel or Google Sheets</ins> is more relevant than pure mathematical skills
+- Direito Imobiliário
+  - Hipotecas e contratos de empréstimo: Uma compreensão básica do cálculo financeiro, em particular do juro composto, é útil na redação e negociação de contratos de empréstimo e hipotecas.
+  - Avaliação de imóveis: Solicitadores de direito imobiliário podem precisar de avaliar os aspetos financeiros das transações imobiliárias, incluindo a valorização de imóveis com base em potenciais retornos futuros.
 
-Financial:
-- Time Value of Money: Familiarity with present value (PV), future value (FV), discounting, and compounding interest rates.
-- Interest Rate Calculations: Ability to calculate simple and compound interest, which is vital for mortgages, loans, and other financial agreements.
-- Risk Management: Familiarity with financial risk assessments, particularly in the context of corporate law, litigation, and insolvency.
+- Direito Societário e de Insolvência
+Reestruturação de dívidas: Solicitadores em reestruturação societária ou insolvência podem lidar com acordos financeiros complexos e planos de reestruturação, o que requer uma compreensão de taxas de juro, recuperação de dívidas, modelos financeiros e métodos de avaliação.
+- Avaliações de risco financeiro: Os solicitadores podem ser chamados a analisar riscos financeiros e ajudar na formulação de estratégias para mitigá-los.
 
-**Skills That Support Financial Calculus Knowledge**
-- Attention to Detail: To ensure accurate calculations in complex financial matters.
-- Analytical Skills: To assess financial documents, valuations, and damages claims.
-- Negotiation Skills: Particularly in financial settlements, loan agreements, and contracts.
+- Contencioso
+  - Cálculo de indemnizações: Em contencioso, especialmente comercial, os advogados podem precisar de calcular indemnizações, o que pode envolver cálculos de valor presente ou futuro, aplicação de taxas de desconto ou a compreensão do impacto económico das taxas de juro ao longo do tempo.
+  - Acordos financeiros: Em casos que envolvem acordos financeiros, um solicitador pode precisar de calcular quanto deve ser pago, tendo em conta juros, inflação ou depreciação ao longo do tempo.
 
-# Law & Finance Around the World
+**Competências Matemáticas e Financeiras Essenciais para Solictadores**
+
+Matemática:
+- Aritmética Básica e Álgebra: Compreensão de rácios, percentagens e funções algébricas básicas.
+- Estatística Básica: Em algumas áreas, a compreensão de probabilidade e estatística pode ser útil, particularmente em litígios.
+- Para a maioria dos solicitadores, a proficiência em <ins>Excel ou Google Sheets</ins> é mais relevante do que competências matemáticas puras.
+
+Finanças:
+- Valor Temporal do Dinheiro: Familiaridade com valor presente (VP), valor futuro (VF), desconto e taxas de juro compostas.
+- Cálculo de Taxas de Juro: Capacidade de calcular juros simples e compostos, o que é vital para hipotecas, empréstimos e outros contratos financeiros.
+- Gestão de Risco: Familiaridade com avaliações de risco financeiro, particularmente no contexto do direito societário, contencioso e insolvência.
+
+
+
+- Atenção ao Detalhe: Para garantir cálculos precisos em questões financeiras complexas.
+- Capacidade Analítica: Para avaliar documentos financeiros, valorizações e pedidos de indemnização.
+- Competências de Negociação: Particularmente em acordos financeiros, empréstimos e contratos em geral.
+**Competências que Apoiam o Conhecimento de Cálculo Financeiro**
+- Atenção ao Detalhe: Para garantir cálculos precisos em questões financeiras complexas.
+- Capacidade Analítica: Para avaliar documentos financeiros, valorizações e pedidos de indemnização.
+- Competências de Negociação: Particularmente em acordos financeiros, empréstimos e contratos em geral.
+  
+# Lei & Finanças à Volta do Mundo
 
 [Harvard Law School Course: Financial Analysis and Valuation for Lawyers](https://www.youtube.com/watch?v=QPoRUsRzcPM)
 
-Bayer agrees to pay more than $10 billion to settle claims that its weedkiller, Roundup, caused cancer. Why not $15 billion or $5 billion?
+A Bayer concorda em pagar mais de 10 mil milhões de dólares para resolver as queixas de que o seu herbicida, Roundup, causou cancro. Por que não 15 mil milhões ou 5 mil milhões?
 
-Lawyers negotiate deals and manage lawsuits involving billions of dollars each year. To do that, you need more than legal expertise. You need a fundamental understanding of the finances behind a deal or dispute, including how to read and analyze financial statements or use financial concepts to value a business, patent, or marital estate. You need more than law knowledge to advise a client on any significant transaction — and to help a client even assess whether it's best to pursue a claim or to settle.
+Os solicitadores negoceiam acordos e gerem processos judiciais que envolvem milhares de milhões de dólares todos os anos. Para isso, é preciso mais do que conhecimentos jurídicos. É necessária uma compreensão fundamental das finanças por detrás de um negócio ou disputa, incluindo saber ler e analisar demonstrações financeiras ou usar conceitos financeiros para avaliar um negócio, uma patente ou um património conjugal. É preciso mais do que conhecimentos jurídicos para aconselhar um cliente sobre qualquer transação significativa — e para ajudar um cliente a avaliar se é melhor prosseguir com uma reclamação jurídica ou chegar a um acordo.
 
-Successful attorneys cannot leave accounting, finance and valuation solely to a finance team, or outside experts. You need to independently understand the financial opportunities your client faces and discuss them using the language of finance. Through examples of disputes, valuations, and presentations from real-world practitioners, this course will teach you how to interpret and use financial data, make a business case for a deal or lawsuit, and understand when and how experts can support — or undermine — your work. 
+Os solictadores bem-sucedidos não podem deixar a contabilidade, as finanças e a valorização exclusivamente a cargo de uma equipa financeira ou de especialistas externos. É necessário compreender independentemente as oportunidades financeiras que o seu cliente enfrenta e discuti-las usando a linguagem das finanças. Através de exemplos de disputas, valorizações e de apresentações de profissionais do mundo real, este curso irá ensinar-lhe como interpretar e utilizar dados financeiros, defender o caso de um negócio para um acordo ou processo judicial, e compreender quando e como os especialistas podem apoiar — ou comprometer — o seu trabalho.
 
-**Key practice exercises**
-- Using present value to analyze a legal doctrine
-- Choosing among payment options for settlement of a lawsuit
-- Estimating profit and compensation from the BP Oil Spill Fund for a company harmed by the spill
-- Valuing the hedge fund partnership interest of a husband involved in a divorce
-- Calculating harm from a breach of contract
-- Calculating the benefit from the misappropriation of intellectual property
-- Deriving the fair value of a company using Comparable Company Analysis and DCF models
+**Exercícios Práticos Chave**
+
+- Utilizar o valor atual para analisar uma doutrina jurídica
+- Escolher entre opções de pagamento para a resolução de um processo judicial
+- Estimar a compensação do Fundo de Derrame de Petróleo da BP para uma empresa prejudicada pelo derrame
+- Avaliar o interesse de parceria num fundo de cobertura de um marido envolvido num divórcio
+- Calcular os danos de uma violação de contrato
+- Calcular o benefício da apropriação indevida de propriedade intelectual
+- Derivar o justo valor de uma empresa utilizando Análise de Empresas Comparáveis e modelos DCF
 
 **Takeaways**
-- Accounting, finance, and valuation are key elements in many legal disputes
-- Present value, discounting, the perpetuity formula, Comparable Company Analysis and the DCF model are all used by lawyers in various ways in real lawsuits
 
+- Contabilidade, finanças e valorização são elementos-chave em muitas disputas legais
+- Valor atual, desconto, a fórmula da perpetuidade, Análise de Empresas Comparáveis e o modelo DCF são todos utilizados por solicitadores de várias formas em processos judiciais reais
 
-# Testimonials
-
-Videos featuring experts sharing their real-world professional experiences as solicitors. Walk in the footseps of experts to learn how they use judgement to answear important questions in the intersection of both legal and quantitative finance perspectives.
+# Testemunhos
+Vídeos com especialistas partilhando as suas experiências profissionais reais enquanto solictadores. Siga os passos dos especialistas para aprender como eles usam o julgamento para responder a questões importantes na interseção das perspetivas jurídicas e de finanças quantitativas.
 
 # Blogs
-Discover the professional insights of experienced solicitors as they navigate the complex relationship between law and financial analysis. Our blog articles delve into real-world experiences, offering expert perspectives and insights on how financial analysis & calculus impacts legal decisions, contract drafting, dispute resolution, and compliance. Whether you're a legal professional, a financial expert, or someone interested in the practical application of these fields, this blog provides a wealth of valuable knowledge, pratical tips, and in-depth analysis drawn from the front lines of legal practice.
+Descubra as perceções profissionais de solictadores experientes enquanto navegam pela complexa relação entre o direito e as finanças. Os nossos artigos de blog exploram experiências do mundo real, oferecendo perspetivas e perceções de especialistas sobre como a análise e o cálculo financeiro impactam as decisões jurídicas, a redação de contratos, a resolução de disputas e a conformidade. Quer seja um profissional jurídico, um especialista financeiro ou alguém interessado na aplicação prática destes campos, este blog fornece uma riqueza de conhecimentos valiosos, dicas práticas e análises aprofundadas, retiradas da linha da frente da prática jurídica.
 
-# Case Studies & Practice Exercises
+# Estudo de Casos & Exercícios Práticos
 
-**Case Studies**
+**Estudo de Casos**
 
-**Practice Exercises**
+**Exercícios Práticos**
 
 Conceitos Básicos Fundamentais / Exercício 01: [Bases de Calendário & Excel](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio01.pdf)
 
