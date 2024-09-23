@@ -67,7 +67,7 @@ Os solictadores bem-sucedidos não podem deixar a contabilidade, as finanças e 
 - Contabilidade, finanças e valorização são elementos-chave em muitas disputas legais
 - Valor atual, desconto, a fórmula da perpetuidade, Análise de Empresas Comparáveis e o modelo DCF são todos utilizados por solicitadores de várias formas em processos judiciais reais
 
-# Testemunhos
+# Testemunhos Video
 Vídeos com especialistas partilhando as suas experiências profissionais reais enquanto solictadores. Siga os passos dos especialistas para aprender como eles usam o julgamento para responder a questões importantes na interseção das perspetivas jurídicas e de finanças quantitativas.
 
 # Blogs
@@ -76,6 +76,8 @@ Descubra as perceções profissionais de solictadores experientes enquanto naveg
 # Estudo de Casos & Exercícios Práticos
 
 **Estudo de Casos**
+
+**Notebooks Jupyter/Pluto**
 
 **Exercícios Práticos**
 
@@ -89,7 +91,7 @@ Objetivos de Aprendizagem:
 Conceitos Básicos Fundamentais / Exercício 02: [Modelação Financeira, Bases de Calendário & Excel](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio02.pdf)
 
 Objetivos de Aprendizagem:
-- Modelação financeira elementar: receitas, custos fixos e variáveis
+- Modelação financeira elementar: receitas, custos fixos e variáveis, e resultados operacionais
 - Cálculo do juro produzido num período, com base em diferentes bases de calendário
 - Excel: utilização do Goal Seek para determinação de valores críticos
 
