@@ -42,7 +42,7 @@ Finanças:
 - Capacidade Analítica: Para avaliar documentos financeiros, valorizações e pedidos de indemnização.
 - Competências de Negociação: Particularmente em acordos financeiros, empréstimos e contratos em geral.
   
-# Lei & Finanças à Volta do Mundo
+# Direito & Finanças à Volta do Mundo
 
 [Harvard Law School Course: Financial Analysis and Valuation for Lawyers](https://www.youtube.com/watch?v=QPoRUsRzcPM)
 
