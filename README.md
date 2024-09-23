@@ -60,7 +60,7 @@ Os solictadores bem-sucedidos não podem deixar a contabilidade, as finanças e 
 - Avaliar o interesse de parceria num fundo de cobertura de um marido envolvido num divórcio
 - Calcular os danos de uma violação de contrato
 - Calcular o benefício da apropriação indevida de propriedade intelectual
-- Derivar o justo valor de uma empresa utilizando Análise de Empresas Comparáveis e modelos DCF
+- Derivar o justo valor de uma empresa utilizando análises de Empresas Comparáveis e modelos DCF
 
 **Takeaways**
 
