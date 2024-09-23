@@ -1,8 +1,9 @@
-*Financial calculus is not typically a core requirement for solicitors, as their primary focus is on legal matters such as drafting contracts, providing legal advice, and representing clients in court. However, certain areas of legal practice do require a good understanding of financial concepts, models and calculus and can give solicitors an edge, particularly in those areas involving financial transactions, contracts, and disputes.*
+*O cálculo financeiro não é tipicamente um requisito central para solicitadores, pois o seu foco principal está em questões jurídicas, como a redação de contratos, fornecimento de consultoria jurídica e representação de clientes em tribunal. No entanto, certas áreas da prática jurídica exigem um bom entendimento de conceitos, modelos e cálculos financeiros, o que pode proporcionar uma vantagem aos solicitadores, especialmente nas áreas que envolvem transações financeiras, contratos e disputas.*
 
-# Topics at the Intersection of Law & Finance 
+# Tópicos na Interseção entre Direito & Finanças
 
-**Areas where Financial Skills may be Useful for Solicitors**
+
+**Áreas em que Competências Financeiras Podem Ser Úteis para Solicitadores**
 
 - Commercial Law
   - Understanding financial statements: In commercial law, solicitors often deal with company finances, business transactions, and mergers. A strong grasp of financial statements (balance sheets, income statements, and cash flows) is crucial.
