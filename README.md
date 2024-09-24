@@ -73,7 +73,9 @@ A Bayer concorda em pagar mais de 10 mil milhões de dólares para resolver as q
 Vídeos com especialistas partilhando as suas experiências profissionais reais enquanto solictadores. Siga os passos dos especialistas para aprender como eles usam o julgamento para responder a questões importantes na interseção das perspetivas jurídicas e de finanças quantitativas.
 
 # Blogs
-Descubra as perceções profissionais de solictadores experientes enquanto navegam pela complexa relação entre o direito e as finanças. Os nossos artigos de blog exploram experiências do mundo real, oferecendo perspetivas e perceções de especialistas sobre como a análise e o cálculo financeiro impactam as decisões jurídicas, a redação de contratos, a resolução de disputas e a conformidade. Quer seja um profissional jurídico, um especialista financeiro ou alguém interessado na aplicação prática destes campos, este blog fornece uma riqueza de conhecimentos valiosos, dicas práticas, análises aprofundadas e normas de excelência, retiradas da linha da frente da prática jurídica.
+Descubra as perceções profissionais de solictadores experientes enquanto navegam pela complexa relação entre o direito e as finanças. Os nossos artigos de blog exploram experiências do mundo real, oferecendo perspetivas e perceções de especialistas sobre como a análise e o cálculo financeiro impactam as decisões jurídicas, a redação de contratos, a resolução de disputas e a conformidade. 
+
+Quer seja um profissional jurídico, um especialista financeiro ou alguém interessado na aplicação prática destes campos, este blog fornece uma riqueza de conhecimentos valiosos, dicas práticas, análises aprofundadas e normas de excelência, retiradas da linha da frente da prática jurídica.
 
 # Estudo de Casos, Notebooks e Exercícios Práticos
 
