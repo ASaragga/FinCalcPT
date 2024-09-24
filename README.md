@@ -52,8 +52,7 @@ A Bayer concorda em pagar mais de 10 mil milhões de dólares para resolver as q
 
 >  Os solictadores bem-sucedidos não podem deixar a contabilidade, as finanças e a valorização exclusivamente a cargo de uma equipa financeira ou de especialistas externos. É necessário compreender independentemente as oportunidades financeiras que o seu cliente enfrenta e discuti-las usando a linguagem das finanças. Através de exemplos de disputas, valorizações e de apresentações de profissionais do mundo real, este curso irá ensinar-lhe como interpretar e utilizar dados financeiros, defender o caso de um negócio para um acordo ou processo judicial, e compreender quando e como os especialistas podem apoiar — ou comprometer — o seu trabalho.
 
-**Exercícios Práticos Chave**
-
+>  **Exercícios Práticos Chave**
 - Utilizar o valor atual para analisar uma doutrina jurídica
 - Escolher entre opções de pagamento para a resolução de um processo judicial
 - Estimar a compensação do Fundo de Derrame de Petróleo da BP para uma empresa prejudicada pelo derrame
@@ -62,8 +61,7 @@ A Bayer concorda em pagar mais de 10 mil milhões de dólares para resolver as q
 - Calcular o benefício da apropriação indevida de propriedade intelectual
 - Derivar o justo valor de uma empresa utilizando análises de Empresas Comparáveis e modelos DCF
 
-**Takeaways**
-
+>  **Takeaways**
 - Contabilidade, finanças e valorização, são elementos-chave em muitas disputas legais
 - Valor atual, desconto, a fórmula da perpetuidade, análise de Empresas Comparáveis e o modelo DCF são todos utilizados por solicitadores de várias formas em processos judiciais reais
 
