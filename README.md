@@ -7,7 +7,7 @@
 - Direito Comercial
   - Compreensão de demonstrações financeiras: No direito comercial, os solicitadores muitas vezes lidam com as finanças de empresas, transações comerciais e fusões & aquisições. Uma compreensão sólida das demonstrações financeiras (balanços, demonstrações de resultados e fluxos de caixa) é crucial.
   - Avaliação de ativos, negócios e empresas: Solicitadores envolvidos em fusões & aquisições precisam entender modelos financeiros para avaliar o valor de negócios ou ativos.
-  - Cálculos de juros: O cálculo financeiro ajuda a compreender as taxas de juro, os planos de amortização de empréstimos e o valor temporal do dinheiro.
+  - Cálculos de juros: O cálculo financeiro ajuda a compreender as taxas de juro e os planos de amortização de empréstimos.
 
 - Direito Fiscal
   - Cálculos fiscais: Solicitadores que trabalham em direito fiscal precisam de calcular impostos, compreender as implicações fiscais de transações financeiras e podem necessitar de familiaridade com modelos quantitativos para garantir um planeamento e cumprimento fiscal precisos.
