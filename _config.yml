@@ -1,6 +1,6 @@
 remote_theme: pages-themes/leap-day@v0.2.0
 url: https://asaragga.github.io/FinCalcPT
-google_analytics: G-B3J0B9X7F
+# google_analytics: G-B3J0B9X7F
 plugins:
 - jekyll-remote-theme 
 title: Cálculo Financeiro para Solicitadores
