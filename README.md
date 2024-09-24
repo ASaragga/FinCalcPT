@@ -46,7 +46,7 @@ Finanças:
 - Capacidade Analítica: Para avaliar documentos financeiros, valorizações e pedidos de indemnização.
 - Competências de Negociação: Particularmente em acordos financeiros, empréstimos e contratos em geral.
   
-# Direito & Finanças à Volta do Mundo 🥂
+# Direito & Finanças à Volta do Mundo
 
 A Bayer concorda em pagar mais de 10 mil milhões de dólares para resolver as queixas de que o seu herbicida, Roundup, causou cancro. Por que não 15 mil milhões ou 5 mil milhões?
 
