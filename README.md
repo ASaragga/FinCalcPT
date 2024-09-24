@@ -28,7 +28,7 @@
 **Competências Matemáticas e Financeiras Essenciais para Solictadores**
 
 Matemática:
-- Aritmética e Álgebra: Compreensão de rácios, percentagens, funções algébricas básicas e resolução de equações simples.
+- Aritmética e Álgebra Elementar: Compreensão de rácios, percentagens, funções algébricas básicas e resolução de equações simples.
 - Estatística Básica: Em algumas áreas, a compreensão de probabilidade e estatística pode ser útil, particularmente em litígios.
 - Para a maioria dos solicitadores, a proficiência em <ins>Excel ou Google Sheets</ins> é mais relevante do que competências matemáticas puras.
 
