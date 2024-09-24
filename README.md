@@ -11,7 +11,7 @@
 
 - Direito Fiscal
   - Cálculos fiscais: Solicitadores que trabalham em direito fiscal precisam de calcular impostos, compreender as implicações fiscais de transações financeiras e podem necessitar de familiaridade com modelos quantitativos para garantir um planeamento e cumprimento fiscal precisos.
-  - Mais-valias e menos-valias: Compreensão da temporização e do cálculo de mais-valias ou menos-valias ao longo do tempo, incluindo a tributação de mais-valias diferidas.
+  - Mais-valias e menos-valias: Compreensão da temporização e do cálculo de mais-valias ou menos-valias ao longo do tempo, incluindo qualquer tributação de mais-valias diferidas.
 
 - Direito Imobiliário
   - Hipotecas e contratos de empréstimo: Uma compreensão básica de cálculo financeiro, em particular do juro composto, é útil na redação e negociação de contratos de empréstimo e hipotecas.
