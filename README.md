@@ -1,6 +1,6 @@
-*O cálculo financeiro não é tipicamente um requisito central para solicitadores, pois o seu foco principal está em questões jurídicas, como a redação de contratos, fornecimento de consultoria jurídica e representação de clientes em tribunal. No entanto, certas áreas da prática jurídica exigem um bom entendimento de conceitos, modelos e cálculos financeiros, o que pode proporcionar uma vantagem competitiva aos solicitadores, especialmente nas áreas que envolvem transações financeiras, contratos e disputas.*
-
 ![](Solicitadores01.png?raw=true)
+
+*O cálculo financeiro não é tipicamente um requisito central para solicitadores, pois o seu foco principal está em questões jurídicas, como a redação de contratos, fornecimento de consultoria jurídica e representação de clientes em tribunal. No entanto, certas áreas da prática jurídica exigem um bom entendimento de conceitos, modelos e cálculos financeiros, o que pode proporcionar uma vantagem competitiva aos solicitadores, especialmente nas áreas que envolvem transações financeiras, contratos e disputas.*
 
 # Tópicos na Interseção entre Direito & Finanças
 
