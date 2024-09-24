@@ -33,7 +33,7 @@ Matemática:
 - Para a maioria dos solicitadores, a proficiência em <ins>Excel ou Google Sheets</ins> é mais relevante do que competências matemáticas puras.
 
 Finanças:
-- Valor Temporal do Dinheiro: Familiaridade com valor atual, valor futuro, custo de oportunidade e taxas de desconto.
+- Valor Temporal do Dinheiro: Familiaridade com custo de oportunidade, taxas de desconto, valor atual e valor futuro.
 - Cálculo de Taxas de Juro: Capacidade de calcular juros simples e compostos, o que é vital para hipotecas, empréstimos e outros contratos financeiros.
 - Gestão de Risco: Familiaridade com avaliações de risco financeiro, particularmente no contexto do direito societário, contencioso e insolvência.
 
