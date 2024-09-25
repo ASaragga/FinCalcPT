@@ -86,9 +86,8 @@ Descubra as perceções profissionais de solictadores experientes enquanto naveg
 
 Quer seja um profissional jurídico, um especialista financeiro ou alguém interessado na aplicação prática destes campos, este blog fornece uma riqueza de conhecimentos valiosos, dicas práticas, análises aprofundadas e procedimentos de excelência, provenientes da linha da frente da prática jurídica.
 
-<div align="center">
-  <h1>Estudo de Casos, Notebooks e Exercícios Práticos</h1>
-</div>
+
+# Estudo de Casos, Notebooks e Exercícios Práticos
 
 **Estudo de Casos**
 
