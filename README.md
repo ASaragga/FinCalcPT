@@ -57,17 +57,17 @@ A Bayer concorda em pagar mais de 10 mil milhões de dólares para resolver as q
 >  Os solictadores bem-sucedidos não podem deixar a contabilidade, as finanças e a valorização exclusivamente a cargo de uma equipa financeira ou de especialistas externos. É necessário compreender independentemente as oportunidades financeiras que o seu cliente enfrenta e discuti-las usando a linguagem das finanças. Através de exemplos de disputas, valorizações e de apresentações de profissionais do mundo real, este curso irá ensinar-lhe como interpretar e utilizar dados financeiros, defender o caso de um negócio para um acordo ou processo judicial, e compreender quando e como os especialistas podem apoiar — ou comprometer — o seu trabalho.
 
 >  **Exercícios Práticos Chave**
-- Utilizar o valor atual para analisar uma doutrina jurídica
-- Escolher entre opções de pagamento para a resolução de um processo judicial
-- Estimar a compensação do Fundo de Derrame de Petróleo da BP para uma empresa prejudicada pelo derrame
-- Avaliar o interesse de parceria num *hedge fund* de um marido envolvido num divórcio
-- Calcular os danos de uma violação de contrato
-- Calcular o benefício da apropriação indevida de propriedade intelectual
-- Derivar o justo valor de uma empresa utilizando análises de Empresas Comparáveis e modelos DCF
+- Utilizar o valor atual para analisar uma doutrina jurídica.
+- Escolher entre opções de pagamento para a resolução de um processo judicial.
+- Estimar a compensação do Fundo de Derrame de Petróleo da BP para uma empresa prejudicada pelo derrame.
+- Avaliar o interesse de parceria num *hedge fund* de um marido envolvido num divórcio.
+- Calcular os danos de uma violação de contrato.
+- Calcular o benefício da apropriação indevida de propriedade intelectual.
+- Derivar o justo valor de uma empresa utilizando análises de Empresas Comparáveis e modelos DCF.
 
 >  **Takeaways**
-- Contabilidade, finanças e valorização, são elementos-chave em muitas disputas legais
-- Valor atual, desconto, a fórmula da perpetuidade, análise de Empresas Comparáveis e o modelo DCF são todos utilizados por solicitadores de várias formas em processos judiciais reais
+- Contabilidade, finanças e valorização, são elementos-chave em muitas disputas legais.
+- Valor atual, desconto, a fórmula da perpetuidade, análise de Empresas Comparáveis e o modelo DCF são todos utilizados por solicitadores de várias formas em processos judiciais reais.
 
 # Testemunhos Video
 Vídeos com especialistas partilhando as suas experiências profissionais reais enquanto solictadores. Siga os passos dos especialistas para aprender como eles usam o julgamento para responder a questões importantes na interseção das perspetivas jurídicas e de finanças quantitativas.
@@ -86,13 +86,13 @@ Quer seja um profissional jurídico, um especialista financeiro ou alguém inter
 **Exercícios Práticos**
 
 Conceitos Básicos Fundamentais / Exercício 01: [Bases de Calendário & Excel](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio01.pdf). Objetivos de Aprendizagem:
-  - Breve relato histórico de como as Convenções de Contagem de Dias se desenvolveram
-  - Cálculo do juro produzido num período, com base em diferentes bases de calendário
-  - Excel: utilização de funções financeiras (FRAÇÃOANO) e de data & tempo (DATA) 
+  - Breve relato histórico de como as Convenções de Contagem de Dias se desenvolveram.
+  - Cálculo do juro produzido num período, com base em diferentes bases de calendário.
+  - Excel: utilização de funções financeiras (FRAÇÃOANO) e de data & tempo (DATA).
 
 Conceitos Básicos Fundamentais / Exercício 02: [Modelação Financeira, Bases de Calendário & Excel](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio02.pdf). Objetivos de Aprendizagem:
-  - Modelação financeira elementar: receitas, custos fixos e variáveis, e resultados operacionais
-  - Cálculo do juro produzido num período, com base em diferentes bases de calendário
-  - Excel: utilização do Goal Seek para determinação de valores críticos
+  - Modelação financeira elementar: vendas & serviços prestados, custos fixos e variáveis, resultados operacionais e resultados líquidos.
+  - Cálculo do juro produzido num período, com base em diferentes bases de calendário.
+  - Excel: utilização do Goal Seek para determinação de valores críticos.
 
 # A Equipa
