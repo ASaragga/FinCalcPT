@@ -5,9 +5,8 @@ O cálculo financeiro não é tipicamente um requisito central para solicitadore
 No entanto, certas áreas da prática jurídica exigem um bom entendimento de conceitos, modelos e cálculos financeiros, o que pode proporcionar uma vantagem competitiva aos solicitadores, especialmente nas áreas que envolvem transações financeiras, contratos e disputas.
 
 
-<div align="center">
-  <h1>Tópicos na Interseção entre Direito & Finanças🥂</h1>
-</div>
+
+# Tópicos na Interseção entre Direito & Finanças🥂
 
 **Áreas em que Competências Financeiras Podem Ser Úteis para Solicitadores**
 
@@ -49,10 +48,7 @@ Finanças
 - Capacidade Analítica: Para avaliar documentos financeiros, valorizações e pedidos de indemnização.
 - Competências de Negociação: Particularmente em acordos financeiros, empréstimos e contratos em geral.
 
-<div align="center">
-  <h1>Direito & Finanças à Volta do Mundo</h1>
-</div>
-
+# Direito & Finanças à Volta do Mundo
 
 A Bayer concorda em pagar mais de 10 mil milhões de dólares para resolver as queixas de que o seu herbicida, Roundup, causou cancro. Por que não 15 mil milhões ou 5 mil milhões?
 
@@ -74,6 +70,7 @@ A Bayer concorda em pagar mais de 10 mil milhões de dólares para resolver as q
 >  **Takeaways**
 - Contabilidade, finanças e valorização, são elementos-chave em muitas disputas legais.
 - Valor atual, desconto, a fórmula da perpetuidade, análise de Empresas Comparáveis e o modelo DCF são todos utilizados por solicitadores de várias formas em processos judiciais reais.
+
 
 <div align="center">
   <h1>Testemunhos Video</h1>
