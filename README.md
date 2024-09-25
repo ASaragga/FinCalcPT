@@ -85,16 +85,12 @@ Quer seja um profissional jurídico, um especialista financeiro ou alguém inter
 
 **Exercícios Práticos**
 
-  - Conceitos Básicos Fundamentais / Exercício 01: [Bases de Calendário & Excel](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio01.pdf)
-
-    Objetivos de Aprendizagem:
+  - Conceitos Básicos Fundamentais / Exercício 01: [Bases de Calendário & Excel](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio01.pdf). Objetivos de Aprendizagem:
     - Breve relato histórico de como as Convenções de Contagem de Dias se desenvolveram
     - Cálculo do juro produzido num período, com base em diferentes bases de calendário
     - Excel: utilização de funções financeiras (FRAÇÃOANO) e de data & tempo (DATA) 
 
-  - Conceitos Básicos Fundamentais / Exercício 02: [Modelação Financeira, Bases de Calendário & Excel](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio02.pdf)
-
-    Objetivos de Aprendizagem:
+  - Conceitos Básicos Fundamentais / Exercício 02: [Modelação Financeira, Bases de Calendário & Excel](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio02.pdf). Objetivos de Aprendizagem:
     - Modelação financeira elementar: receitas, custos fixos e variáveis, e resultados operacionais
     - Cálculo do juro produzido num período, com base em diferentes bases de calendário
     - Excel: utilização do Goal Seek para determinação de valores críticos
