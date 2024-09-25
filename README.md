@@ -4,7 +4,10 @@ O cálculo financeiro não é tipicamente um requisito central para solicitadore
 
 No entanto, certas áreas da prática jurídica exigem um bom entendimento de conceitos, modelos e cálculos financeiros, o que pode proporcionar uma vantagem competitiva aos solicitadores, especialmente nas áreas que envolvem transações financeiras, contratos e disputas.
 
-# <p style="text-align:center"> Tópicos na Interseção entre Direito & Finanças🥂 </p> 
+
+<div align="center">
+  <h1>Tópicos na Interseção entre Direito & Finanças🥂</h1>
+</div>
 
 **Áreas em que Competências Financeiras Podem Ser Úteis para Solicitadores**
 
@@ -45,8 +48,11 @@ Finanças
 - Atenção ao Detalhe: Para garantir cálculos precisos em questões financeiras complexas.
 - Capacidade Analítica: Para avaliar documentos financeiros, valorizações e pedidos de indemnização.
 - Competências de Negociação: Particularmente em acordos financeiros, empréstimos e contratos em geral.
-  
-# Direito & Finanças à Volta do Mundo
+
+<div align="center">
+  <h1>Direito & Finanças à Volta do Mundo</h1>
+</div>
+
 
 A Bayer concorda em pagar mais de 10 mil milhões de dólares para resolver as queixas de que o seu herbicida, Roundup, causou cancro. Por que não 15 mil milhões ou 5 mil milhões?
 
@@ -69,15 +75,23 @@ A Bayer concorda em pagar mais de 10 mil milhões de dólares para resolver as q
 - Contabilidade, finanças e valorização, são elementos-chave em muitas disputas legais.
 - Valor atual, desconto, a fórmula da perpetuidade, análise de Empresas Comparáveis e o modelo DCF são todos utilizados por solicitadores de várias formas em processos judiciais reais.
 
-# Testemunhos Video
+<div align="center">
+  <h1>Testemunhos Video</h1>
+</div>
+
 Vídeos com especialistas partilhando as suas experiências profissionais reais enquanto solictadores. Siga os passos dos especialistas para aprender como eles usam o julgamento para responder a questões importantes na interseção das perspetivas jurídicas e de finanças quantitativas.
 
-# Blogs
+<div align="center">
+  <h1>Blogs</h1>
+</div>
+
 Descubra as perceções profissionais de solictadores experientes enquanto navegam pela complexa relação entre o direito e as finanças. Os nossos artigos de blog exploram experiências do mundo real, oferecendo perspetivas e perceções de especialistas sobre como a análise e o cálculo financeiro impactam as decisões jurídicas, a redação de contratos, a resolução de disputas e a conformidade. 
 
 Quer seja um profissional jurídico, um especialista financeiro ou alguém interessado na aplicação prática destes campos, este blog fornece uma riqueza de conhecimentos valiosos, dicas práticas, análises aprofundadas e procedimentos de excelência, provenientes da linha da frente da prática jurídica.
 
-# Estudo de Casos, Notebooks e Exercícios Práticos
+<div align="center">
+  <h1>Estudo de Casos, Notebooks e Exercícios Práticos</h1>
+</div>
 
 **Estudo de Casos**
 
