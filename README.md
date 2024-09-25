@@ -8,35 +8,35 @@ No entanto, certas áreas da prática jurídica exigem um bom entendimento de co
 
 **Áreas em que Competências Financeiras Podem Ser Úteis para Solicitadores**
 
-- Direito Comercial
-  - Compreensão de demonstrações financeiras: No direito comercial, os solicitadores muitas vezes lidam com as finanças de empresas, transações comerciais e fusões & aquisições. Uma compreensão sólida das demonstrações financeiras (balanços, demonstrações de resultados e fluxos de caixa) é crucial.
-  - Avaliação de ativos, negócios e empresas: Solicitadores envolvidos em fusões & aquisições precisam entender modelos financeiros para avaliar o valor de negócios ou ativos.
-  - Cálculos de juros: O cálculo financeiro ajuda a compreender as taxas de juro e os planos de amortização de empréstimos.
+Direito Comercial
+- Compreensão de demonstrações financeiras: No direito comercial, os solicitadores muitas vezes lidam com as finanças de empresas, transações comerciais e fusões & aquisições. Uma compreensão sólida das demonstrações financeiras (balanços, demonstrações de resultados e fluxos de caixa) é crucial.
+- Avaliação de ativos, negócios e empresas: Solicitadores envolvidos em fusões & aquisições precisam entender modelos financeiros para avaliar o valor de negócios ou ativos.
+- Cálculos de juros: O cálculo financeiro ajuda a compreender as taxas de juro e os planos de amortização de empréstimos.
 
-- Direito Fiscal
-  - Cálculos fiscais: Solicitadores que trabalham em direito fiscal precisam de calcular impostos, compreender as implicações fiscais de transações financeiras e podem necessitar de familiaridade com modelos quantitativos para garantir um planeamento e cumprimento fiscal precisos.
-  - Mais-valias e menos-valias: Compreensão da temporização e do cálculo de mais-valias ou menos-valias ao longo do tempo, incluindo qualquer tributação de mais-valias diferidas.
+Direito Fiscal
+- Cálculos fiscais: Solicitadores que trabalham em direito fiscal precisam de calcular impostos, compreender as implicações fiscais de transações financeiras e podem necessitar de familiaridade com modelos quantitativos para garantir um planeamento e cumprimento fiscal precisos.
+- Mais-valias e menos-valias: Compreensão da temporização e do cálculo de mais-valias ou menos-valias ao longo do tempo, incluindo qualquer tributação de mais-valias diferidas.
 
-- Direito Imobiliário
-  - Hipotecas e contratos de empréstimo: Uma compreensão básica de cálculo financeiro, em particular do juro composto, é útil na redação e negociação de contratos de empréstimo e hipotecas.
-  - Avaliação de imóveis: Solicitadores de direito imobiliário podem precisar de avaliar os aspetos financeiros das transações imobiliárias, incluindo a valorização de imóveis com base em potenciais retornos futuros.
+Direito Imobiliário
+- Hipotecas e contratos de empréstimo: Uma compreensão básica de cálculo financeiro, em particular do juro composto, é útil na redação e negociação de contratos de empréstimo e hipotecas.
+- Avaliação de imóveis: Solicitadores de direito imobiliário podem precisar de avaliar os aspetos financeiros das transações imobiliárias, incluindo a valorização de imóveis com base em potenciais retornos futuros.
 
-- Direito Societário e de Insolvência
-  - Reestruturação de dívidas: Solicitadores em reestruturação societária ou insolvência podem lidar com acordos financeiros complexos e planos de reestruturação, o que requer uma compreensão de taxas de juro, recuperação de dívidas, modelos financeiros e métodos de avaliação.
-  - Avaliações de riscos financeiros: Os solicitadores podem ser chamados a analisar riscos financeiros e ajudar na formulação de estratégias para mitigá-los.
+Direito Societário e de Insolvência
+- Reestruturação de dívidas: Solicitadores em reestruturação societária ou insolvência podem lidar com acordos financeiros complexos e planos de reestruturação, o que requer uma compreensão de taxas de juro, recuperação de dívidas, modelos financeiros e métodos de avaliação.
+- Avaliações de riscos financeiros: Os solicitadores podem ser chamados a analisar riscos financeiros e ajudar na formulação de estratégias para mitigá-los.
 
-- Contencioso
-  - Cálculo de indemnizações: Em contencioso, especialmente comercial, os solictadores podem precisar de calcular indemnizações, o que pode envolver cálculos de valor presente ou futuro, aplicação de taxas de desconto ou a compreensão do impacto económico das taxas de juro ao longo do tempo.
-  - Acordos financeiros: Em casos que envolvem acordos financeiros, um solicitador pode precisar de calcular quanto deve ser pago, tendo em conta juros, inflação ou depreciação ao longo do tempo.
+Contencioso
+- Cálculo de indemnizações: Em contencioso, especialmente comercial, os solictadores podem precisar de calcular indemnizações, o que pode envolver cálculos de valor presente ou futuro, aplicação de taxas de desconto ou a compreensão do impacto económico das taxas de juro ao longo do tempo.
+- Acordos financeiros: Em casos que envolvem acordos financeiros, um solicitador pode precisar de calcular quanto deve ser pago, tendo em conta juros, inflação ou depreciação ao longo do tempo.
 
 **Competências Matemáticas e Financeiras Essenciais para Solictadores**
 
-Matemática:
+Matemática
 - Aritmética e Álgebra Elementar: Compreensão de rácios, percentagens, funções algébricas básicas e resolução de equações simples.
 - Estatística Básica: Em algumas áreas, a compreensão de probabilidade e estatística pode ser útil, particularmente em litígios.
 - Para a maioria dos solicitadores, a proficiência em <ins>Excel ou Google Sheets</ins> é mais relevante do que competências matemáticas puras.
 
-Finanças:
+Finanças
 - Valor Temporal do Dinheiro: Familiaridade com custo de oportunidade, taxas de desconto, valor atual e valor futuro.
 - Cálculo de Taxas de Juro: Capacidade de calcular juros simples e compostos, o que é vital para hipotecas, empréstimos e outros contratos financeiros.
 - Gestão de Risco: Familiaridade com avaliações de risco financeiro, particularmente no contexto do direito societário, contencioso e insolvência.
