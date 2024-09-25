@@ -4,7 +4,7 @@ O cálculo financeiro não é tipicamente um requisito central para solicitadore
 
 No entanto, certas áreas da prática jurídica exigem um bom entendimento de conceitos, modelos e cálculos financeiros, o que pode proporcionar uma vantagem competitiva aos solicitadores, especialmente nas áreas que envolvem transações financeiras, contratos e disputas.
 
-# Tópicos na Interseção entre Direito & Finanças🥂
+# <p style="text-align:center"> Tópicos na Interseção entre Direito & Finanças🥂 </p> 
 
 **Áreas em que Competências Financeiras Podem Ser Úteis para Solicitadores**
 
