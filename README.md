@@ -72,15 +72,12 @@ A Bayer concorda em pagar mais de 10 mil milhões de dólares para resolver as q
 - Valor atual, desconto, a fórmula da perpetuidade, análise de Empresas Comparáveis e o modelo DCF são todos utilizados por solicitadores de várias formas em processos judiciais reais.
 
 
-<div align="center">
-  <h1>Testemunhos Video</h1>
-</div>
+# Testemunhos Video
 
 Vídeos com especialistas partilhando as suas experiências profissionais reais enquanto solictadores. Siga os passos dos especialistas para aprender como eles usam o julgamento para responder a questões importantes na interseção das perspetivas jurídicas e de finanças quantitativas.
 
-<div align="center">
-  <h1>Blogs</h1>
-</div>
+
+# Blogs
 
 Descubra as perceções profissionais de solictadores experientes enquanto navegam pela complexa relação entre o direito e as finanças. Os nossos artigos de blog exploram experiências do mundo real, oferecendo perspetivas e perceções de especialistas sobre como a análise e o cálculo financeiro impactam as decisões jurídicas, a redação de contratos, a resolução de disputas e a conformidade. 
 
