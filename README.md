@@ -104,5 +104,3 @@ Conceitos Básicos Fundamentais / Exercício 02: [Modelação Financeira, Bases 
   - Modelação financeira elementar: vendas & serviços prestados, custos fixos e variáveis, resultados operacionais e resultados líquidos.
   - Cálculo do juro produzido num período, com base em diferentes bases de calendário.
   - Excel: utilização do Goal Seek para determinação de valores críticos.
-
-# A Equipa
