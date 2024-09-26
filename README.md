@@ -52,7 +52,9 @@ Finanças
 A Bayer concorda em pagar mais de 10 mil milhões de dólares para resolver as queixas de que o seu herbicida, Roundup, causou cancro. Por que não 15 mil milhões ou 5 mil milhões?
 
 [Curso da Harvard Law School: Financial Analysis and Valuation for Lawyers](https://www.youtube.com/watch?v=QPoRUsRzcPM?raw=true)
-https://img.youtube.com/vi/B3QNPFOvBrmfUCKY/1.jpg
+
+[](https://img.youtube.com/vi/B3QNPFOvBrmfUCKY/1.jpg?raw=true)
+
 >  Os solicitadores negoceiam acordos e gerem processos judiciais que envolvem milhares de milhões de dólares todos os anos. Para isso, é preciso mais do que conhecimentos jurídicos. É necessária uma compreensão fundamental das finanças por detrás de um negócio ou disputa, incluindo saber ler e analisar demonstrações financeiras ou usar conceitos financeiros para avaliar um negócio, uma patente ou um património conjugal. É preciso mais do que conhecimentos jurídicos para aconselhar um cliente sobre qualquer transação significativa — e para ajudar um cliente a avaliar se é melhor prosseguir com um processos judicial ou chegar a um acordo.
 
 >  Os solictadores bem-sucedidos não podem deixar a contabilidade, as finanças e a valorização exclusivamente a cargo de uma equipa financeira ou de especialistas externos. É necessário compreender independentemente as oportunidades financeiras que o seu cliente enfrenta e discuti-las usando a linguagem das finanças. Através de exemplos de disputas, valorizações e de apresentações de profissionais do mundo real, este curso irá ensinar-lhe como interpretar e utilizar dados financeiros, defender o caso de um negócio para um acordo ou processo judicial, e compreender quando e como os especialistas podem apoiar — ou comprometer — o seu trabalho.
