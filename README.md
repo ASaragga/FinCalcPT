@@ -55,6 +55,8 @@ A Bayer concorda em pagar mais de 10 mil milhões de dólares para resolver as q
 
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![Everything Is AWESOME](https://i.sstatic.net/q3ceS.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+
 
 [![Curso da Harvard Law School](https://img.youtube.com/vi/QPoRUsRzcPM/0.jpg)](https://www.youtube.com/watch?v=QPoRUsRzcPM?raw=true "Financial Analysis and Valuation for Lawyers")
 
