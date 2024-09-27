@@ -51,7 +51,7 @@ Finanças
 
 A Bayer concorda em pagar mais de 10 mil milhões de dólares para resolver as queixas de que o seu herbicida, Roundup, causou cancro. Por que não 15 mil milhões ou 5 mil milhões?
 
-**Apresentação do Curso da Harvard Law School: Financial Analysis and Valuation for Lawyers** (↓Video)
+**Apresentação do Curso da Harvard Law School: Financial Analysis and Valuation for Lawyers** (↓)
 
 [![Curso da Harvard Law School](Assets/FVL01.png)](https://youtu.be/QPoRUsRzcPM "Financial Analysis and Valuation for Lawyers")
 
@@ -94,12 +94,12 @@ Quer seja um profissional jurídico, um especialista financeiro ou alguém inter
 
 **Exercícios Práticos**
 
-Conceitos Básicos Fundamentais / Exercício 01: [Bases de Calendário & Excel](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio01.pdf). Objetivos de Aprendizagem:
+Conceitos Básicos Fundamentais / Exercício 01: [🔗Bases de Calendário & Excel](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio01.pdf). Objetivos de Aprendizagem:
   - Breve relato histórico de como as Convenções de Contagem de Dias se desenvolveram.
   - Cálculo do juro produzido num período, com base em diferentes bases de calendário.
   - Excel: utilização de funções financeiras (FRAÇÃOANO) e de data & tempo (DATA).
 
-Conceitos Básicos Fundamentais / Exercício 02: [Modelação Financeira, Bases de Calendário & Excel](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio02.pdf). Objetivos de Aprendizagem:
+Conceitos Básicos Fundamentais / Exercício 02: [🔗Modelação Financeira, Bases de Calendário & Excel](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio02.pdf). Objetivos de Aprendizagem:
   - Modelação financeira elementar: vendas & serviços prestados, custos fixos e variáveis, resultados operacionais e resultados líquidos.
   - Cálculo do juro produzido num período, com base em diferentes bases de calendário.
   - Excel: utilização do Goal Seek para determinação de valores críticos.
