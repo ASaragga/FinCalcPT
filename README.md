@@ -51,7 +51,7 @@ Finanças
 
 A Bayer concorda em pagar mais de 10 mil milhões de dólares para resolver as queixas de que o seu herbicida, Roundup, causou cancro. Por que não 15 mil milhões ou 5 mil milhões?
 
-[Curso da Harvard Law School: Financial Analysis and Valuation for Lawyers](https://www.youtube.com/watch?v=QPoRUsRzcPM?raw=true)
+[Curso da Harvard Law School: Financial Analysis and Valuation for Lawyers](https://www.youtube.com/watch?v=QPoRUsRzcPM)
 
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
