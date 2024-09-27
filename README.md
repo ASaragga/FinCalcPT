@@ -51,9 +51,16 @@ Finanças
 
 A Bayer concorda em pagar mais de 10 mil milhões de dólares para resolver as queixas de que o seu herbicida, Roundup, causou cancro. Por que não 15 mil milhões ou 5 mil milhões?
 
-**Apresentação do Curso da Harvard Law School: Financial Analysis and Valuation for Lawyers** (⭣)
+## Cursos
+Bayer agrees to pay more than $10 billion to settle claims that its weedkiller, Roundup, caused cancer. Why not $15 billion or $5 billion?
 
-[![Curso da Harvard Law School](Assets/FVL01.png)](https://youtu.be/QPoRUsRzcPM "Financial Analysis and Valuation for Lawyers")
+
+**Financial Analysis and Valuation for Lawyers / Harvard Law School** (⭣Video)
+
+>  **Visão Geral**
+
+> [![Harvard Law School Course](Assets/FVL01.png)](https://youtu.be/QPoRUsRzcPM "Financial Analysis and Valuation for Lawyers")
+
 
 >  Os solicitadores negoceiam acordos e gerem processos judiciais que envolvem milhares de milhões de dólares todos os anos. Para isso, é preciso mais do que conhecimentos jurídicos. É necessária uma compreensão fundamental das finanças por detrás de um negócio ou disputa, incluindo saber ler e analisar demonstrações financeiras ou usar conceitos financeiros para avaliar um negócio, uma patente ou um património conjugal. É preciso mais do que conhecimentos jurídicos para aconselhar um cliente sobre qualquer transação significativa — e para ajudar um cliente a avaliar se é melhor prosseguir com um processos judicial ou chegar a um acordo.
 
