@@ -53,7 +53,12 @@ A Bayer concorda em pagar mais de 10 mil milhões de dólares para resolver as q
 
 [Curso da Harvard Law School: Financial Analysis and Valuation for Lawyers](https://www.youtube.com/watch?v=QPoRUsRzcPM?raw=true)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/B3QNPFOvBrmfUCKY/0.jpg)]((http://www.youtube.com/watch?y=B3QNPFOvBrmfUCKY "Video Title")
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
+[https://youtu.be/QPoRUsRzcPM?si=lAm6Un8rg3rBZ2L-]
+(https://youtu.be/QPoRUsRzcPM?si=iOQBkp7zgPXR6fsJ)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/B3QNPFOvBrmfUCKY/0.jpg)](http://www.youtube.com/watch?y=B3QNPFOvBrmfUCKY "Video Title")
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
 
 >  Os solicitadores negoceiam acordos e gerem processos judiciais que envolvem milhares de milhões de dólares todos os anos. Para isso, é preciso mais do que conhecimentos jurídicos. É necessária uma compreensão fundamental das finanças por detrás de um negócio ou disputa, incluindo saber ler e analisar demonstrações financeiras ou usar conceitos financeiros para avaliar um negócio, uma patente ou um património conjugal. É preciso mais do que conhecimentos jurídicos para aconselhar um cliente sobre qualquer transação significativa — e para ajudar um cliente a avaliar se é melhor prosseguir com um processos judicial ou chegar a um acordo.
