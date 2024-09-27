@@ -1,5 +1,5 @@
 ![](Solicitadores001.png?raw=true)
-O cálculo financeiro não é tipicamente um requisito central para solicitadores, pois o seu foco principal está em questões jurídicas, como a redação de contratos, fornecimento de consultoria jurídica e representação de clientes em tribunal. 
+O cálculo financeiro não é tipicamente um requisito central para solicitadores, pois o seu foco principal está em questões jurídicas, como a redação de contratos, fornecimento de consultoria jurídica e representação de clientes em tribunal.
 
 No entanto, certas áreas da prática jurídica exigem um bom entendimento de conceitos, modelos e cálculos financeiros, o que pode proporcionar uma vantagem competitiva aos solicitadores, especialmente nas áreas que envolvem transações financeiras, contratos e disputas.
 
@@ -52,11 +52,6 @@ Finanças
 A Bayer concorda em pagar mais de 10 mil milhões de dólares para resolver as queixas de que o seu herbicida, Roundup, causou cancro. Por que não 15 mil milhões ou 5 mil milhões?
 
 [Curso da Harvard Law School: Financial Analysis and Valuation for Lawyers](https://www.youtube.com/watch?v=QPoRUsRzcPM)
-
-
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
-[![Everything Is AWESOME](https://i.sstatic.net/q3ceS.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
-
 
 [![Curso da Harvard Law School](https://img.youtube.com/vi/QPoRUsRzcPM/0.jpg)](https://www.youtube.com/watch?v=QPoRUsRzcPM "Financial Analysis and Valuation for Lawyers")
 
