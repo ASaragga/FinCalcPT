@@ -97,7 +97,7 @@ Com mais de 800.000 novas empresas constituídas no Reino Unido todos os anos, n
 
 Se qualquer uma das partes estiver insatisfeita com o relatório do perito conjunto, poderá fazer um requerimento com base no caso *Daniels v Walker*.
 
-*A Kingsley Napley é uma firma de advocacia com sede em Londres, autorizada e regulada pela Solicitors Regulation Authority. As áreas de prática da firma incluem: Direito Empresarial, Comercial e Financeiro, Custos e Gestão de Litígios, Resolução de Conflitos, Direito de Família e Divórcio, Imobiliário e Construção, e Reestruturação e Insolvência.*
+*A Kingsley Napley é uma firma de solicitadoria com sede em Londres, autorizada e regulada pela Solicitors Regulation Authority. As áreas de prática da firma incluem: Direito Empresarial, Comercial e Financeiro, Custos e Gestão de Litígios, Resolução de Conflitos, Direito de Família e Divórcio, Imobiliário e Construção, e Reestruturação e Insolvência.*
 
 
 # Estudo de Casos, Notebooks e Exercícios Práticos
