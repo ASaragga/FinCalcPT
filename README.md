@@ -111,7 +111,7 @@ Estudo Caso 01 / [🔗IRS Bola de Neve em Portugal: O Pior Negócio do Mundo!](h
 Estudo Caso 02 / [🔗O Dono Disto Tudo:: A Queda de um Império Financeiro](https://github.com/ASaragga/FinCalc/blob/main/EstudoCaso02.pdf). Learning Objectives:
 
 
-**Notas de Contexto: Notebooks Jupyter/Pluto**
+**Notas de Contexto & Notebooks Interativos**
 
 **Exercícios Práticos em Excel**
 
@@ -133,7 +133,7 @@ Exercício 03 / Regime Juros Simples: [🔗Renegociação de Empréstimos](https
 # Meta Discussões
 
 Meta 01 / Cálculos com Formulários, Folhas de Cálculo e a IA Generativa: [🔗<img width="446" alt="Image credit - Adam Zyglis | Copyright 2018 Cagle Cartoons" src="https://github.com/user-attachments/assets/5909aaee-afbe-425d-adb1-97b8083247eb">
-](https://github.com/ASaragga/FinCalc/blob/main/MetaEN01.pdf)
+](https://github.com/ASaragga/FinCalc/blob/main/MetaPT01.pdf)
 
 
 # Offtopic
