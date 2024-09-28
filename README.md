@@ -1,4 +1,4 @@
-![](Solicitadores01.png?raw=true) <!--- Dimensions: 1650 × 1056 -->
+![](Solicitadores01.png?raw=true) <!--- Dimensions: 1618 × 846 -->
 
 O cálculo financeiro não é tipicamente um requisito central para solicitadores, pois o seu foco principal está em questões jurídicas, como a redação de contratos, fornecimento de consultoria jurídica e representação de clientes em tribunal.
 
