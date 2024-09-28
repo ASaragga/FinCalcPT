@@ -101,7 +101,7 @@ Se qualquer uma das partes estiver insatisfeita com o relatório do perito conju
 *A Kingsley Napley é uma firma de solicitadoria com sede em Londres, autorizada e regulada pela Solicitors Regulation Authority. As áreas de prática da firma incluem: Direito Empresarial, Comercial e Financeiro, Custos e Gestão de Litígios, Resolução de Conflitos, Direito de Família e Divórcio, Imobiliário e Construção, e Reestruturação e Insolvência.*
 
 
-# Estudo de Casos, Notebooks e Exercícios Práticos
+# Estudo de Casos, Notebooks e Exercícios em Excel
 
 **Estudo de Casos**
 
