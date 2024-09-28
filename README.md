@@ -107,7 +107,7 @@ Se qualquer uma das partes estiver insatisfeita com o relatório do perito conju
 
 **Notebooks Jupyter/Pluto**
 
-**Exercícios Práticos em Excel**
+**Exercícios em Excel**
 
 Exercício 01 / Conceitos Básicos Fundamentais: [🔗Bases de Calendário](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio01.pdf). Objetivos de Aprendizagem:
   - Breve relato histórico de como as Convenções de Contagem de Dias se desenvolveram.
