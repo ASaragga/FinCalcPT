@@ -83,9 +83,22 @@ Descubra as perceções profissionais de solictadores experientes enquanto naveg
 
 Quer seja um profissional jurídico, um especialista financeiro ou alguém interessado na aplicação prática destes campos, este blog fornece uma riqueza de conhecimentos valiosos, dicas práticas, análises aprofundadas e procedimentos de excelência, provenientes da linha da frente da prática jurídica.
 
-Blogue 01 / Cuida da Tua Vida: Valorização de Ativos Empresariais em Divórcios (Kingsley Napley, 2024)
+**Blogue 01 / Cuida da Tua Vida: Valorização de Ativos Empresariais em Divórcios (Kingsley Napley, 2024)**
 
 Com mais de 800.000 novas empresas constituídas no Reino Unido todos os anos, não é surpresa que os ativos empresariais e, em particular, a alienação de participações empresariais sejam frequentemente uma questão significativa ao dividir os bens entre cônjuges em processos de reparação financeira de divórcio.
+
+>No recente caso do *High Court* GA v EL (2023), o tribunal considerou o efeito do esforço pós-separação no valor de uma empresa. Neste caso específico, as partes tiveram um longo casamento de 12 anos e têm 2 filhos em comum. A antiga casa da família foi transferida para o nome da esposa, mas as partes não conseguiram chegar a um acordo sobre a divisão dos 70 milhões de libras resultantes da venda da empresa, que constituíam a maior parte dos seus bens.
+
+>O argumento do marido era que uma parte significativa dos rendimentos da empresa derivava de 2 anos e 2 meses de esforço pós-separação e, por isso, não eram bens matrimoniais. No entanto, a esposa argumentava que a totalidade da empresa era matrimonial e o aumento de valor resultava tanto dos esforços matrimoniais como do crescimento natural subsequente que uma empresa estabelecida poderia esperar num mercado forte.
+
+>As partes nomearam um perito conjunto único (PCU), ou seja, um perito nomeado pelo tribunal com o acordo de ambas as partes. O PCU valorizou a empresa à data da separação (Novembro de 2019) em 28,1 milhões de libras, utilizando uma abordagem de “valor presente”, na qual o perito se transportou para 2019 e não teve em consideração os anos subsequentes, resultando na venda da empresa em 2021 por 70 milhões de libras. O juiz adotou os valores de 30 milhões de libras para a avaliação à data da separação e 60 milhões de libras no momento da venda. O valor mais baixo teve em conta a fragilidade dos números, uma vez que parte do pagamento foi diferido como capital numa empresa holding.
+
+>O tribunal ordenou uma divisão de 42,5% dos rendimentos para a esposa e 57,5% para o marido, atribuindo aproximadamente 15% ao esforço pós-separação do marido.
+
+Se qualquer uma das partes estiver insatisfeita com o relatório do perito conjunto, poderá fazer um requerimento com base no caso *Daniels v Walker*.
+
+*A Kingsley Napley é uma firma de advocacia com sede em Londres, autorizada e regulada pela Solicitors Regulation Authority. As áreas de prática da firma incluem: Direito Empresarial, Comercial e Financeiro, Custos e Gestão de Litígios, Resolução de Conflitos, Direito de Família e Divórcio, Imobiliário e Construção, e Reestruturação e Insolvência. A Kingsley Napley recebeu recentemente prémios da indústria, incluindo “Firma de Advocacia do Ano: Os Independentes”, concedido pela The Lawyer (Fonte: Wikipedia)*.
+
 
 # Estudo de Casos, Notebooks e Exercícios Práticos
 
