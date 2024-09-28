@@ -101,13 +101,18 @@ Se qualquer uma das partes estiver insatisfeita com o relatório do perito conju
 *A Kingsley Napley é uma firma de solicitadoria com sede em Londres, autorizada e regulada pela Solicitors Regulation Authority. As áreas de prática da firma incluem: Direito Empresarial, Comercial e Financeiro, Custos e Gestão de Litígios, Resolução de Conflitos, Direito de Família e Divórcio, Imobiliário e Construção, e Reestruturação e Insolvência.*
 
 
-# Estudo de Casos, Notebooks e Exercícios em Excel
+# Estudo de Casos, Notas de Contexto e Exercícios em Excel
 
 **Estudo de Casos**
 
-**Notebooks Jupyter/Pluto**
+Estudo Caso 01 / [🔗IRS Bola de Neve em Portugal Portugal: O Pior Negócio do Mundo!](https://github.com/ASaragga/FinCalc/blob/main/EstudoCaso01.pdf). Learning Objectives:
 
-**Exercícios em Excel**
+Estudo Caso 02 / [🔗O Dono Disto Tudo:: A Queda de um Império Financeiro](https://github.com/ASaragga/FinCalc/blob/main/EstudoCaso02.pdf). Learning Objectives:
+
+
+**Notas de Contexto: Notebooks Jupyter/Pluto**
+
+**Exercícios Práticos em Excel**
 
 Exercício 01 / Conceitos Básicos Fundamentais: [🔗Bases de Calendário](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio01.pdf). Objetivos de Aprendizagem:
   - Breve relato histórico de como as Convenções de Contagem de Dias se desenvolveram.
@@ -117,6 +122,7 @@ Exercício 01 / Conceitos Básicos Fundamentais: [🔗Bases de Calendário](http
 Exercício 02 / Conceitos Básicos Fundamentais: [🔗Modelação Financeira e Bases de Calendário](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio02.pdf). Objetivos de Aprendizagem:
   - Modelação financeira elementar: vendas & serviços prestados, custos fixos e variáveis, resultados operacionais e resultados líquidos.
   - Cálculo do juro produzido num período, com base em diferentes bases de calendário.
+  - Escolha do empréstimo mais favorável entre alternativas.
   - Excel: utilização do Goal Seek para resolver equações e determinar valores críticos.
 
 Exercício 03 / Regime Juros Simples: [🔗Renegociação de Empréstimos](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio03.pdf). Objetivos de Aprendizagem:
