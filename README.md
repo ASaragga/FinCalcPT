@@ -118,3 +118,7 @@ Exercício 02 / Conceitos Básicos Fundamentais: [🔗Modelação Financeira, Ba
   - Modelação financeira elementar: vendas & serviços prestados, custos fixos e variáveis, resultados operacionais e resultados líquidos.
   - Cálculo do juro produzido num período, com base em diferentes bases de calendário.
   - Excel: utilização do Goal Seek para determinação de valores críticos.
+
+Exercício 03 / Regime Juros Simples: 🔗Reegociação de Empréstimos. Learning Objectives:
+  - Cálculos associados à renegociação de empréstimos.
+  - Excel:  utilização do Goal Seek para determinação de valores críticos.
