@@ -117,8 +117,8 @@ Exercício 01 / Conceitos Básicos Fundamentais: [🔗Bases de Calendário](http
 Exercício 02 / Conceitos Básicos Fundamentais: [🔗Modelação Financeira e Bases de Calendário](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio02.pdf). Objetivos de Aprendizagem:
   - Modelação financeira elementar: vendas & serviços prestados, custos fixos e variáveis, resultados operacionais e resultados líquidos.
   - Cálculo do juro produzido num período, com base em diferentes bases de calendário.
-  - Excel: utilização do Goal Seek para determinação de valores críticos.
+  - Excel: utilização do Goal Seek para resolver equações e determinar valores críticos.
 
 Exercício 03 / Regime Juros Simples: [🔗Renegociação de Empréstimos](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio03.pdf). Objetivos de Aprendizagem:
   - Cálculos associados à renegociação de empréstimos.
-  - Excel:  utilização do Goal Seek para determinação de valores críticos.
+  - Excel:  utilização do Goal Seek para resolver equações e determinar valores críticos.
