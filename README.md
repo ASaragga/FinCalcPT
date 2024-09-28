@@ -111,9 +111,7 @@ Estudo Caso 01 / [🔗IRS Bola de Neve em Portugal: O Pior Negócio do Mundo!](h
 Estudo Caso 02 / [🔗O Dono Disto Tudo:: A Queda de um Império Financeiro](https://github.com/ASaragga/FinCalc/blob/main/EstudoCaso02.pdf). Learning Objectives:
 
 
-**Notas de Contexto & Notebooks Interativos**
-
-**Notas de Contexto e *Notebooks* Interativos**
+**Notas de Contexto & *Notebooks* Interativos**
 
 Nota 01 / [🔗Breve Relato Histórico de Como as Convenções de Contagem de Dias se Desenvolveram](https://github.com/ASaragga/FinCalc/blob/main/Nota01.pdf). Learning Objectives:
 
@@ -125,17 +123,17 @@ Nota 02 / [🔗Mentiras, Malditas Mentiras e Estatísticas](https://github.com/A
 Exercício 01 / Conceitos Básicos Fundamentais: [🔗Bases de Calendário](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio01.pdf). Objetivos de Aprendizagem:
   - Breve relato histórico de como as Convenções de Contagem de Dias se desenvolveram.
   - Cálculo do juro produzido num período, com base em diferentes bases de calendário.
-  - Excel: utilização de funções financeiras (FRAÇÃOANO) e de data & tempo (DATA).
+  - Excel: Utilização de funções financeiras (FRAÇÃOANO) e de data & tempo (DATA).
 
 Exercício 02 / Conceitos Básicos Fundamentais: [🔗Modelação Financeira e Bases de Calendário](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio02.pdf). Objetivos de Aprendizagem:
   - Modelação financeira elementar: vendas & serviços prestados, custos fixos e variáveis, resultados operacionais e resultados líquidos.
   - Cálculo do juro produzido num período, com base em diferentes bases de calendário.
   - Escolha do empréstimo mais favorável entre alternativas.
-  - Excel: utilização do Goal Seek para resolver equações e determinar valores críticos.
+  - Excel: Utilização do Goal Seek para resolver equações e determinar valores críticos.
 
 Exercício 03 / Regime Juros Simples: [🔗Renegociação de Empréstimos](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio03.pdf). Objetivos de Aprendizagem:
   - Cálculos associados à renegociação de empréstimos.
-  - Excel:  utilização do Goal Seek para resolver equações e determinar valores críticos.
+  - Excel: Utilização do Goal Seek para resolver equações e determinar valores críticos.
 
 # Meta Discussões
 
