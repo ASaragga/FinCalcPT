@@ -84,7 +84,7 @@ Descubra as perceções profissionais de solictadores experientes enquanto naveg
 
 Quer seja um profissional jurídico, um especialista financeiro ou alguém interessado na aplicação prática destes campos, este blog fornece uma riqueza de conhecimentos valiosos, dicas práticas, análises aprofundadas e procedimentos de excelência, provenientes da linha da frente da prática jurídica.
 
-**Blogue 01 / Cuida da Tua Vida: Valorização de Ativos Empresariais em Divórcios (Kingsley Napley, 2024)**
+**Blogue 01 / Cuide da Sua Vida: Valorização de Ativos Empresariais em Divórcios (Kingsley Napley, 2024)**
 
 Com mais de 800.000 novas empresas constituídas no Reino Unido todos os anos, não é surpresa que os ativos empresariais e, em particular, a alienação de participações empresariais sejam frequentemente uma questão significativa aquando da divisão dos bens entre cônjuges em processos de reparação financeira de divórcio.
 
@@ -96,10 +96,11 @@ Com mais de 800.000 novas empresas constituídas no Reino Unido todos os anos, n
 
 >O tribunal ordenou uma divisão de 42,5% dos rendimentos para a esposa e 57,5% para o marido, atribuindo aproximadamente 15% ao esforço pós-separação do marido.
 
-Se qualquer uma das partes estiver insatisfeita com o relatório do perito conjunto, poderá fazer um requerimento com base no caso *Daniels v Walker*.
+Se qualquer uma das partes estiver insatisfeita com o relatório do perito conjunto, poderá fazer um requerimento com base no caso *Daniels v Walker*[1^].
 
 *A Kingsley Napley é uma firma de solicitadoria com sede em Londres, autorizada e regulada pela Solicitors Regulation Authority. As áreas de prática da firma incluem: Direito Empresarial, Comercial e Financeiro, Custos e Gestão de Litígios, Resolução de Conflitos, Direito de Família e Divórcio, Imobiliário e Construção, e Reestruturação e Insolvência.*
 
+[1^]: In certain situations, one or both parties may want to consult an expert of their own choosing to determine whether to challenge the single joint expert’s report. In the UK  this process, now referred to as a Daniels v Walker application, originates from the 2000 case where such a ruling was first made. It applies to all court matters requiring expert evidence. Even when appointed by one party, these experts must remain impartial.
 
 # Estudo de Casos, Notas de Contexto e Exercícios em Excel
 
@@ -128,3 +129,10 @@ Exercício 02 / Conceitos Básicos Fundamentais: [🔗Modelação Financeira e B
 Exercício 03 / Regime Juros Simples: [🔗Renegociação de Empréstimos](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio03.pdf). Objetivos de Aprendizagem:
   - Cálculos associados à renegociação de empréstimos.
   - Excel:  utilização do Goal Seek para resolver equações e determinar valores críticos.
+
+# Meta Discussões
+
+Cálculos Manuais, Excel e a Inteligência Artificial Generativa.
+
+
+# Offtopic
