@@ -132,7 +132,7 @@ Exercício 03 / Regime Juros Simples: [🔗Renegociação de Empréstimos](https
 
 # Meta Discussões
 
-Cálculos Manuais, Excel e a Inteligência Artificial Generativa.
+Cálculos com Formulários, Folhas de Cálculo e a Inteligência Artificial Generativa.
 
 
 # Offtopic
