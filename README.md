@@ -50,7 +50,6 @@ Finanças
 
 # Direito & Finanças à Volta do Mundo
 
-
 **Financial Analysis and Valuation for Lawyers / Harvard Law School** Ensina os solictadores e advogados a analisar demonstrações financeiras, compreender métodos de valorização de empresas, negócios e patrimónios e aplicá-los em contextos legais, como fusões & aquisições ou falências. (⭣Video)
 
 > [![Harvard Law School Course](Assets/FVL01.png)](https://youtu.be/QPoRUsRzcPM "Financial Analysis and Valuation for Lawyers")
@@ -93,12 +92,12 @@ Quer seja um profissional jurídico, um especialista financeiro ou alguém inter
 
 **Exercícios Práticos**
 
-Conceitos Básicos Fundamentais / Exercício 01: [🔗Bases de Calendário & Excel](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio01.pdf). Objetivos de Aprendizagem:
+Exercício 01 / Conceitos Básicos Fundamentais: [🔗Bases de Calendário & Excel](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio01.pdf). Objetivos de Aprendizagem:
   - Breve relato histórico de como as Convenções de Contagem de Dias se desenvolveram.
   - Cálculo do juro produzido num período, com base em diferentes bases de calendário.
   - Excel: utilização de funções financeiras (FRAÇÃOANO) e de data & tempo (DATA).
 
-Conceitos Básicos Fundamentais / Exercício 02: [🔗Modelação Financeira, Bases de Calendário & Excel](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio02.pdf). Objetivos de Aprendizagem:
+Exercício 02 / Conceitos Básicos Fundamentais: [🔗Modelação Financeira, Bases de Calendário & Excel](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio02.pdf). Objetivos de Aprendizagem:
   - Modelação financeira elementar: vendas & serviços prestados, custos fixos e variáveis, resultados operacionais e resultados líquidos.
   - Cálculo do juro produzido num período, com base em diferentes bases de calendário.
   - Excel: utilização do Goal Seek para determinação de valores críticos.
