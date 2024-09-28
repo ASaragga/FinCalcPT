@@ -113,6 +113,13 @@ Estudo Caso 02 / [🔗O Dono Disto Tudo:: A Queda de um Império Financeiro](htt
 
 **Notas de Contexto & Notebooks Interativos**
 
+**Notas de Contexto e *Notebooks* Interativos**
+
+Nota 01 / [🔗Breve Relato Histórico de Como as Convenções de Contagem de Dias se Desenvolveram](https://github.com/ASaragga/FinCalc/blob/main/Nota01.pdf). Learning Objectives:
+
+Nota 02 / [🔗Mentiras, Malditas Mentiras e Estatísticas](https://github.com/ASaragga/FinCalc/blob/main/Nota02.pdf). Learning Objectives:
+
+
 **Exercícios Práticos em Excel**
 
 Exercício 01 / Conceitos Básicos Fundamentais: [🔗Bases de Calendário](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio01.pdf). Objetivos de Aprendizagem:
