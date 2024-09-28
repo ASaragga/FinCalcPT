@@ -106,7 +106,7 @@ Se qualquer uma das partes estiver insatisfeita com o relatório do perito conju
 
 **Estudo de Casos**
 
-Estudo Caso 01 / [🔗IRS Bola de Neve em Portugal Portugal: O Pior Negócio do Mundo!](https://github.com/ASaragga/FinCalc/blob/main/EstudoCaso01.pdf). Learning Objectives:
+Estudo Caso 01 / [🔗IRS Bola de Neve em Portugal: O Pior Negócio do Mundo!](https://github.com/ASaragga/FinCalc/blob/main/EstudoCaso01.pdf). Learning Objectives:
 
 Estudo Caso 02 / [🔗O Dono Disto Tudo:: A Queda de um Império Financeiro](https://github.com/ASaragga/FinCalc/blob/main/EstudoCaso02.pdf). Learning Objectives:
 
@@ -136,3 +136,5 @@ Cálculos com Formulários, Folhas de Cálculo e a Inteligência Artificial Gene
 
 
 # Offtopic
+
+🔗 = HyperLink
