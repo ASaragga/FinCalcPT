@@ -7,7 +7,8 @@ No entanto, certas áreas da prática jurídica exigem um bom entendimento de co
 
 # Tópicos na Interseção entre Direito & Finanças🥂
 
-**Áreas em que Competências Financeiras Podem Ser Úteis para Solicitadores**
+**Áreas em que Competências Financeiras Podem Ser Úteis para Solicitadores**. A Bayer concorda em pagar mais de 10 mil milhões de dólares para resolver as queixas de que o seu herbicida, Roundup, causou cancro. Por que não 15 mil milhões ou 5 mil milhões?
+
 
 Direito Comercial
 - Compreensão de demonstrações financeiras: No direito comercial, os solicitadores muitas vezes lidam com as finanças de empresas, transações comerciais e fusões & aquisições. Uma compreensão sólida das demonstrações financeiras (balanços, demonstrações de resultados e fluxos de caixa) é crucial.
@@ -49,9 +50,8 @@ Finanças
 
 # Direito & Finanças à Volta do Mundo
 
-A Bayer concorda em pagar mais de 10 mil milhões de dólares para resolver as queixas de que o seu herbicida, Roundup, causou cancro. Por que não 15 mil milhões ou 5 mil milhões?
 
-**Financial Analysis and Valuation for Lawyers / Harvard Law School** (⭣Video)
+**Financial Analysis and Valuation for Lawyers / Harvard Law School** Ensina os solictadores e advogados a analisar demonstrações financeiras, compreender métodos de valorização de empresas, negócios e patrimónios e aplicá-los em contextos legais, como fusões & aquisições ou falências. (⭣Video)
 
 > [![Harvard Law School Course](Assets/FVL01.png)](https://youtu.be/QPoRUsRzcPM "Financial Analysis and Valuation for Lawyers")
 
