@@ -140,8 +140,7 @@ Meta 01 / [🔗Cálculos com Formulários, Folhas de Cálculo e a IA Generativa]
 
 ![](Evolution.png?raw=true)
 
-Autor: Adam Zyglis | Copyright &copy; 2018 Cagle Cartoons
-<!--- <img width="600" src="https://github.com/user-attachments/assets/5909aaee-afbe-425d-adb1-97b8083247eb"> 1618 × 846 -->
+<!--- Autor: Adam Zyglis | Copyright &copy; 2018 Cagle Cartoons -->
 
 
 
