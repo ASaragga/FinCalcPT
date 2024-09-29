@@ -100,7 +100,7 @@ Se qualquer uma das partes estiver insatisfeita com o relatório do perito conju
 
 *A Kingsley Napley é uma firma de solicitadoria com sede em Londres, autorizada e regulada pela Solicitors Regulation Authority. As áreas de prática da firma incluem: Direito Empresarial, Comercial e Financeiro, Custos e Gestão de Litígios, Resolução de Conflitos, Direito de Família e Divórcio, Imobiliário e Construção, e Reestruturação e Insolvência.*
 
-[^1]: In certain situations, one or both parties may want to consult an expert of their own choosing to determine whether to challenge the single joint expert’s report. In the UK  this process, now referred to as a Daniels v Walker application, originates from the 2000 case where such a ruling was first made. It applies to all court matters requiring expert evidence. Even when appointed by one party, these experts must remain impartial.
+[^1]: Em determinadas situações, uma ou ambas as partes podem querer consultar um perito da sua escolha para decidir se devem contestar o relatório do perito único conjunto. No Reino Unido, este processo, agora conhecido como uma aplicação Daniels v Walker, tem origem num caso de 2000 em que tal decisão foi proferida pela primeira vez. Aplica-se a todos os processos judiciais que requerem prova pericial. Mesmo quando nomeados por uma das partes, esses peritos devem permanecer imparciais.
 
 # Estudo de Casos, Notas de Contexto e Exercícios em Excel
 
