@@ -137,7 +137,8 @@ Exercício 03 / Regime Juros Simples: [🔗Renegociação de Empréstimos](https
 
 # Meta Discussão
 
-Meta 01 / : [🔗Cálculos com Formulários, Folhas de Cálculo e a IA Generativa](https://github.com/ASaragga/FinCalcPT/blob/main/MetaPT01.pdf)<img width="446" src="https://github.com/user-attachments/assets/5909aaee-afbe-425d-adb1-97b8083247eb">
+Meta 01 / : [🔗Cálculos com Formulários, Folhas de Cálculo e a IA Generativa](https://github.com/ASaragga/FinCalcPT/blob/main/MetaPT01.pdf)
+<img width="446" src="https://github.com/user-attachments/assets/5909aaee-afbe-425d-adb1-97b8083247eb">
 Autor: Adam Zyglis | Copyright &copy; 2018 Cagle Cartoons
 
 # Offtopic
