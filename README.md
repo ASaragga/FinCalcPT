@@ -121,7 +121,6 @@ Nota 02 / [🔗Mentiras, Malditas Mentiras e Estatísticas](https://github.com/A
 **Exercícios Práticos em Excel**
 
 Exercício 01 / Conceitos Básicos Fundamentais: [🔗Bases de Calendário](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio01.pdf). Objetivos de Aprendizagem:
-  - Breve relato histórico de como as Convenções de Contagem de Dias se desenvolveram.
   - Cálculo do juro produzido num período, com base em diferentes bases de calendário.
   - Excel: Utilização de funções financeiras (FRAÇÃOANO) e de data & tempo (DATA).
 
