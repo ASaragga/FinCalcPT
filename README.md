@@ -145,6 +145,6 @@ Autor: Adam Zyglis | Copyright &copy; 2018 Cagle Cartoons
 
 
 
-# Offtopic
+# Off-topic
 
 🔗 = HyperLink
