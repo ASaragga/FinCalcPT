@@ -137,7 +137,7 @@ Exercício 03 / Regime Juros Simples: [🔗Renegociação de Empréstimos](https
 
 # Meta Discussão
 
-Meta 01 / : [🔗Cálculos com Formulários, Folhas de Cálculo e a IA Generativa](https://github.com/ASaragga/FinCalcPT/blob/main/MetaPT01.pdf)
+Meta 01 / [🔗Cálculos com Formulários, Folhas de Cálculo e a IA Generativa](https://github.com/ASaragga/FinCalcPT/blob/main/MetaPT01.pdf)
 
 ![](Evolution.png?raw=true)
 
