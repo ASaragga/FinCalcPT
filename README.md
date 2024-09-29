@@ -136,7 +136,7 @@ Exercício 03 / Regime Juros Simples: [🔗Renegociação de Empréstimos](https
 
 # Meta Discussão
 
-Meta 01 / [🔗Cálculos com Formulários, Folhas de Cálculo e a IA Generativa](https://github.com/ASaragga/FinCalcPT/blob/main/MetaPT01.pdf)
+Meta 01 / [🔗Cálculos com Formulários, Folhas de Cálculo e a IA Generativa](https://github.com/ASaragga/FinCalcPT/blob/main/MetaPT01.pdf). Resolvendo o Exame Especial de Cálculo Financeiro para Solicitadoria de Julho 2024, através de Inteligência Artificial Generativa e de Folhas de Cálculo. 
 
 ![](Evolution.png?raw=true)
 
