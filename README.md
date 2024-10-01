@@ -106,16 +106,16 @@ Se qualquer uma das partes estiver insatisfeita com o relatório do perito conju
 
 **Estudo de Casos**
 
-Estudo Caso 01 / [🔗IRS Bola de Neve em Portugal: O Pior Negócio do Mundo!](https://github.com/ASaragga/FinCalcPT/blob/main/EstudoCaso01.pdf). Learning Objectives:
+Estudo Caso 01 / [🚧IRS Bola de Neve em Portugal: O Pior Negócio do Mundo!](https://github.com/ASaragga/FinCalcPT/blob/main/EstudoCaso01.pdf). Learning Objectives:
 
-Estudo Caso 02 / [🔗O Dono Disto Tudo:: A Queda de um Império Financeiro](https://github.com/ASaragga/FinCalcPT/blob/main/EstudoCaso02.pdf). Learning Objectives:
+Estudo Caso 02 / [🚧O Dono Disto Tudo:: A Queda de um Império Financeiro](https://github.com/ASaragga/FinCalcPT/blob/main/EstudoCaso02.pdf). Learning Objectives:
 
 
 **Notas de Contexto & *Notebooks* Interativos**
 
 Nota 01 / [🔗Breve Relato Histórico de Como as Convenções de Contagem de Dias se Desenvolveram](https://github.com/ASaragga/FinCalcPT/blob/main/Nota01.pdf). Learning Objectives:
 
-Nota 02 / [🔗Mentiras, Malditas Mentiras e Estatísticas](https://github.com/ASaragga/FinCalcPT/blob/main/Nota02.pdf). Learning Objectives:
+Nota 02 / [🚧Mentiras, Malditas Mentiras e Estatísticas](https://github.com/ASaragga/FinCalcPT/blob/main/Nota02.pdf). Learning Objectives:
 
 
 **Exercícios Práticos em Excel**
@@ -130,13 +130,13 @@ Exercício 02 / Conceitos Básicos Fundamentais: [🔗Modelação Financeira](ht
   - Escolha do empréstimo mais favorável entre alternativas.
   - Excel: Utilização do Goal Seek para resolver equações e determinar valores críticos.
 
-Exercício 03 / Regime Juros Simples: [🔗Renegociação de Empréstimos](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio03.pdf). Objetivos de Aprendizagem:
+Exercício 03 / Regime Juros Simples: [🚧Renegociação de Empréstimos](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio03.pdf). Objetivos de Aprendizagem:
   - Cálculos associados à renegociação de empréstimos.
   - Excel: Utilização do Goal Seek para resolver equações e determinar valores críticos.
 
 # Meta Discussão
 
-Meta 01 / [🔗Cálculos Financeiros com Formulários, Folhas de Cálculo e IA Generativa](https://github.com/ASaragga/FinCalcPT/blob/main/MetaPT01.pdf). Resolvendo um Exame de Cálculo Financeiro para Solicitadoria, através de Inteligência Artificial Generativa e de Folhas de Cálculo. 
+Meta 01 / [🔗Cálculos Financeiros com Formulário, Folha de Cálculo e IA Generativa](https://github.com/ASaragga/FinCalcPT/blob/main/MetaPT01.pdf). Resolvendo um Exame de Cálculo Financeiro para Solicitadoria, através de Inteligência Artificial Generativa e de Folhas de Cálculo. 
 
 ![](Evolution.png?raw=true)
 
@@ -147,3 +147,5 @@ Meta 01 / [🔗Cálculos Financeiros com Formulários, Folhas de Cálculo e IA G
 # Off-topic
 
 🔗 = HyperLink
+
+🚧 = Hyperlink para documento em construção
