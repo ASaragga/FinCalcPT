@@ -134,7 +134,7 @@ Exercício 03 / Regime Juros Simples: [🔗Renegociação de Empréstimos](https
   - Cálculos associados à renegociação de empréstimos.
   - Excel: Utilização do Goal Seek para resolver equações e determinar valores críticos.
 
-Exercício 04 / Regime de Juros Compostos: [🔗Solicitadoria em Sintra: Entre Cálculos e Castelos] Objetivos de Aprendizagem:
+Exercício 04 / Regime de Juros Compostos: [🔗Capitalização: Entre Cálculos e Castelos] Objetivos de Aprendizagem:
 
 # Meta Discussão
 
