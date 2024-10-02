@@ -114,7 +114,7 @@ Estudo Caso 03 / [🚧Entre Cálculos e Castelos (B): Valorizando um Negócio](h
 
 **Notas de Contexto & *Notebooks* Interativos**
 
-Nota 01 / [🔗Breve Relato Histórico de Como as Convenções de Contagem de Dias se Desenvolveram](https://github.com/ASaragga/FinCalcPT/blob/main/Nota01.pdf). Objetivos de Aprendizagem:
+Nota 01 / [🔗Breve Relato Histórico de Como as Convenções de Contagem de Dias se Desenvolveram](https://github.com/ASaragga/FinCalcPT/blob/main/Nota01.pdf).
 
 Nota 02 / [🚧Mentiras, Malditas Mentiras e Estatísticas](https://github.com/ASaragga/FinCalcPT/blob/main/Nota02.pdf). Objetivos de Aprendizagem:
 
