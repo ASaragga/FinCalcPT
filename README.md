@@ -110,7 +110,7 @@ Estudo Caso 01 / [🚧IRS Bola de Neve em Portugal: O Pior Negócio do Mundo!](h
 
 Estudo Caso 02 / [🚧O Dono Disto Tudo:: A Queda de um Império Financeiro](https://github.com/ASaragga/FinCalcPT/blob/main/EstudoCaso02.pdf). Objetivos de Aprendizagem:
 
-Estudo Caso 03 / [🚧Entre Cálculos e Castelos: Valorizando um Negócio](https://github.com/ASaragga/FinCalcPT/blob/main/EstudoCaso03.pdf). Objetivos de Aprendizagem:
+Estudo Caso 03 / [🚧Entre Cálculos e Castelos (B): Valorizando um Negócio](https://github.com/ASaragga/FinCalcPT/blob/main/EstudoCaso03.pdf). Objetivos de Aprendizagem:
 
 **Notas de Contexto & *Notebooks* Interativos**
 
