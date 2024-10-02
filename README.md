@@ -130,9 +130,11 @@ Exercício 02 / Conceitos Básicos Fundamentais: [🔗Modelação Financeira](ht
   - Escolha do empréstimo mais favorável entre alternativas.
   - Excel: Utilização do Goal Seek para resolver equações e determinar valores críticos.
 
-Exercício 03 / Regime Juros Simples: 🔗[Renegociação de Empréstimos](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio03.pdf). Objetivos de Aprendizagem:
+Exercício 03 / Regime Juros Simples: [🔗Renegociação de Empréstimos](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio03.pdf). Objetivos de Aprendizagem:
   - Cálculos associados à renegociação de empréstimos.
   - Excel: Utilização do Goal Seek para resolver equações e determinar valores críticos.
+
+Exercício 04 / Regime de Juros Compostos: [🔗Solicitadoria em Sintra: Entre Cálculos e Castelos] Objetivos de Aprendizagem:
 
 # Meta Discussão
 
