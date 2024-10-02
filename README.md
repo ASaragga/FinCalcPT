@@ -135,7 +135,7 @@ Exercício 03 / Regime de Juros Simples: [🔗Renegociação de Empréstimos](ht
   - Cálculos associados à renegociação de empréstimos.
   - Excel: Utilização do Goal Seek para resolver equações e determinar valores críticos.
 
-Exercício 04 / Regime de Juros Compostos: [🔗Capitalização: Entre Cálculos e Castelos](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio04.pdf). Objetivos de Aprendizagem:
+Exercício 04 / Regime de Juros Compostos: [🔗Entre Cálculos e Castelos (A): Capitalização](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio04.pdf). Objetivos de Aprendizagem:
   - Processo de capitalização em regime de juros compostos
 
 # Meta Discussão
