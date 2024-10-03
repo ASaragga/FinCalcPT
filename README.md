@@ -123,7 +123,7 @@ Nota 02 / [🚧Mentiras, Malditas Mentiras e Estatísticas](https://github.com/A
 
 Exercício 01 / Conceitos Básicos Fundamentais: [🔗Bases de Calendário](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio01.pdf). Objetivos de Aprendizagem:
   - Cálculo do juro produzido num período, com base em diferentes bases de calendário.
-  - Excel: Utilização de funções financeiras (FRAÇÃOANO) e de data & tempo (DATA).
+  - Excel: Utilização de funções de data & tempo (FRAÇÃOANO e DATA).
 
 Exercício 02 / Conceitos Básicos Fundamentais: [🔗Modelação Financeira](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio02.pdf). Objetivos de Aprendizagem:
   - Modelação financeira elementar: vendas & serviços prestados, custos fixos e variáveis, resultados operacionais e resultados líquidos.
@@ -150,6 +150,6 @@ Meta 01 / [🔗Cálculos Financeiros: Formulários, Folhas de Cálculo e IA Gene
 
 # Off-topic
 
-🔗 = HyperLink
+🔗 = HyperLink para documento ativo
 
 🚧 = Hyperlink para documento em construção
