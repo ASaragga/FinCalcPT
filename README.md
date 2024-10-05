@@ -132,9 +132,10 @@ Exercício 02 / Conceitos Básicos Fundamentais: [🔗Modelação Financeira](ht
   - Excel: Utilização do Goal Seek para resolver equações e determinar valores críticos.
 
 Exercício 03 / Regime de Juros Simples: [🔗Renegociação de Empréstimos](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio03.pdf). Objetivos de Aprendizagem:
-  - Valor atual.
-  - Equação de valor.
+  - Valor atual e desconto
+  - Equivalência de capitais
   - Cálculos associados à renegociação de empréstimos.
+  - Excel: Utilização do Goal Seek para resolver equações 
 
 Exercício 04 / Regime de Juros Compostos: [🔗Entre Cálculos e Castelos (A): Capitalização](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio04.pdf). Objetivos de Aprendizagem:
   - Processo de capitalização em regime de juros compostos.
