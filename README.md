@@ -82,7 +82,7 @@ Vídeos com especialistas partilhando as suas experiências profissionais reais 
 
 Descubra as perceções profissionais de solictadores experientes enquanto navegam pela complexa relação entre o direito e as finanças. Os nossos artigos de blog exploram experiências do mundo real, oferecendo perspetivas e perceções de especialistas sobre como a análise e o cálculo financeiro impactam as decisões jurídicas, a redação de contratos, a resolução de disputas e a conformidade. 
 
-Quer seja um profissional jurídico, um especialista financeiro ou alguém interessado na aplicação prática destes campos, este blog fornece uma riqueza de conhecimentos valiosos, dicas práticas, análises aprofundadas e procedimentos de excelência, provenientes da linha da frente da prática jurídica.
+Quer seja um profissional jurídico, um especialista financeiro ou alguém interessado na aplicação prática destes campos, estes blogues fornecem uma riqueza de conhecimentos valiosos, dicas práticas, análises aprofundadas e procedimentos de excelência, provenientes da linha da frente da prática jurídica.
 
 **Blogue 01 / Cuide da Sua Vida: Valorização de Ativos Empresariais em Divórcios (Kingsley Napley, 2024)**
 
@@ -132,8 +132,9 @@ Exercício 02 / Conceitos Básicos Fundamentais: [🔗Modelação Financeira](ht
   - Excel: Utilização do Goal Seek para resolver equações e determinar valores críticos.
 
 Exercício 03 / Regime de Juros Simples: [🔗Renegociação de Empréstimos](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio03.pdf). Objetivos de Aprendizagem:
+  - Valor atual.
+  - Equação de valor.
   - Cálculos associados à renegociação de empréstimos.
-  - Excel: Utilização do Goal Seek para resolver equações e determinar valores críticos.
 
 Exercício 04 / Regime de Juros Compostos: [🔗Entre Cálculos e Castelos (A): Capitalização](https://github.com/ASaragga/FinCalcPT/blob/main/Exercicio04.pdf). Objetivos de Aprendizagem:
   - Processo de capitalização em regime de juros compostos.
