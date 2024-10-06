@@ -53,7 +53,7 @@ Finanças
 
 **Financial Analysis and Valuation for Lawyers / Harvard Law School**. Ensina os solictadores e advogados a analisar demonstrações financeiras, compreender métodos de valorização de empresas, negócios e patrimónios e aplicá-los em contextos legais, como fusões & aquisições ou falências. (⭣Video)
 
-> [![Harvard Law School Course](Assets/FVL01.png)](https://youtu.be/QPoRUsRzcPM "Financial Analysis and Valuation for Lawyers")
+[![Harvard Law School Course](Assets/FVL01.png)](https://youtu.be/QPoRUsRzcPM "Financial Analysis and Valuation for Lawyers")
 
 >  Os solicitadores negoceiam acordos e gerem processos judiciais que envolvem milhares de milhões de dólares todos os anos. Para isso, é preciso mais do que conhecimentos jurídicos. É necessária uma compreensão fundamental das finanças por detrás de um negócio ou disputa, incluindo saber ler e analisar demonstrações financeiras ou usar conceitos financeiros para avaliar um negócio, uma patente ou um património conjugal. É preciso mais do que conhecimentos jurídicos para aconselhar um cliente sobre qualquer transação significativa — e para ajudar um cliente a avaliar se é melhor prosseguir com um processos judicial ou chegar a um acordo.
 
