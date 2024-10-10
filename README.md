@@ -51,7 +51,7 @@ Finanças
 
 # Direito & Finanças à Volta do Mundo
 
-**Financial Analysis and Valuation for Lawyers / Harvard Law School**. Ensina os solictadores e advogados a analisar demonstrações financeiras, compreender métodos de valorização de empresas, negócios e patrimónios e aplicá-los em contextos legais, como fusões & aquisições ou falências. (⭣Video)
+**Financial Analysis and Valuation for Lawyers / Harvard Law School**. Ensina os solictadores e advogados a analisar demonstrações financeiras, compreender métodos de valorização de empresas, negócios e patrimónios e aplicá-los em contextos jurídicos, como fusões & aquisições, reestruturações ou falências. (⭣Video)
 
 [![Harvard Law School Course](Assets/FVL01.png)](https://youtu.be/QPoRUsRzcPM "Financial Analysis and Valuation for Lawyers")
 
